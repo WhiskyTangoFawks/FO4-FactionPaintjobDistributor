@@ -1,0 +1,24 @@
+{
+  "FormKey": "000929:GunmetalArmorSkins.esp",
+  "EditorID": "co_HARVEST_Armor_Material_Combat_WL",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Woodland camo pattern for forested enviroments"
+  },
+  "CreatedObject": "000823:GunmetalArmorSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "000973:GunmetalArmorSkins.esp",
+  "EditorID": "co_HARVEST_Armor_Material_Combat_Red",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Wear red to the enemies can't se me bleed."
+  },
+  "CreatedObject": "0008B4:GunmetalArmorSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

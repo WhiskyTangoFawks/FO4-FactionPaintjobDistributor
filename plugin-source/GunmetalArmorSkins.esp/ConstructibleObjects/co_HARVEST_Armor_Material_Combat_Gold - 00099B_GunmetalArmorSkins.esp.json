@@ -1,0 +1,24 @@
+{
+  "FormKey": "00099B:GunmetalArmorSkins.esp",
+  "EditorID": "co_HARVEST_Armor_Material_Combat_Gold",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Polished Gold Finish"
+  },
+  "CreatedObject": "0008A8:GunmetalArmorSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

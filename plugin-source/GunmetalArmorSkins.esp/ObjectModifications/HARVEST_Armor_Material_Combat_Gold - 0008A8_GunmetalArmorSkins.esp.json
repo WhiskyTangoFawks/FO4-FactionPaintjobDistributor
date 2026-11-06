@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008A8:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Gold",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gold"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Polished Gold Finish"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00099A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000889:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

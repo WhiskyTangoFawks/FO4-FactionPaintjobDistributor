@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008A0:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Bronze",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bronze"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Polished Bronze Finish"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000992:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000887:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

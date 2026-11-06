@@ -1,0 +1,24 @@
+{
+  "FormKey": "000911:GunmetalArmorSkins.esp",
+  "EditorID": "co_HARVEST_Armor_Material_Combat_Sky",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Sky Camo Pattern"
+  },
+  "CreatedObject": "0008D9:GunmetalArmorSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

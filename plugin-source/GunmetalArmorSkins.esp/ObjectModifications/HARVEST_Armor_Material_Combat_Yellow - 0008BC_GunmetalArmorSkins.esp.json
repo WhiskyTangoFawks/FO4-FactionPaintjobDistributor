@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008BC:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Yellow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yellow"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Only thing brighter is the Sun."
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00097A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00088C:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.3
+    }
+  ]
+}

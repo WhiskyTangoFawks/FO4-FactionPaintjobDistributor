@@ -1,0 +1,24 @@
+{
+  "FormKey": "0009CB:GunmetalArmorSkins.esp",
+  "EditorID": "co_HARVEST_Armor_Material_Combat_Grey",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Grey"
+  },
+  "CreatedObject": "00086D:GunmetalArmorSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

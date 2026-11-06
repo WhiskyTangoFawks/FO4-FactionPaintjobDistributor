@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000A11:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Multicam",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Multicam"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Multicam Pattern"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000A25:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009F7:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

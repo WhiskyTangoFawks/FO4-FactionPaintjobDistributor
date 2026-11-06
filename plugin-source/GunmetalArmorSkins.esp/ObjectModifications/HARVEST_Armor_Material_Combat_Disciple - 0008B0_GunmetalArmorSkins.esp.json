@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008B0:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Disciple",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Disciples"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Nuka World Raider Gang - Disciples"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00098A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000885:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

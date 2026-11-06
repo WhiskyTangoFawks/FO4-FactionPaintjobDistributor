@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008A4:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Silver",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Silver"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Polished Chrome Silver Finish"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "0009A2:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000888:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

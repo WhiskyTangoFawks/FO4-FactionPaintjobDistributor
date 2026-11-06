@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00083A:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_CF",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Carbon Fiber"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Ultra light Carbon Fiber material"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00092E:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000839:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

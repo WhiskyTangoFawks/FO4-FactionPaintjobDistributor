@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008C0:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Green",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Green"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Diamond City would approve."
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00094A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00088D:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.4
+    }
+  ]
+}

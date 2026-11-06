@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0009FC:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_LightGray",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Light Gray"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000A05:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.3
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009F5:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

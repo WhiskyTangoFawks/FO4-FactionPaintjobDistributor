@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0009EA:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Rust",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rust"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Old and Rusty"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00099A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009E8:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

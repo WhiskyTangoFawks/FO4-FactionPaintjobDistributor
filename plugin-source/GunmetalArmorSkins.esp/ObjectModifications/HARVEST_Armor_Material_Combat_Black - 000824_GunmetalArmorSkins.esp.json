@@ -1,0 +1,37 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000824:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Black",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Black"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Black"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "0009B2:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000809:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.1
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0B9739:Fallout4.esm",
+      "FunctionType": "Add"
+    }
+  ]
+}

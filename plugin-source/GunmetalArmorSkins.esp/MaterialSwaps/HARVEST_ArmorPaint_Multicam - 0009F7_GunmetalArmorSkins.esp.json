@@ -1,0 +1,58 @@
+{
+  "FormKey": "0009F7:GunmetalArmorSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_ArmorPaint_Multicam",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Arm.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Arm_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Helmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Helmet_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Leg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Leg_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\Torso_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\TorsoStuds.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\TorsoStuds_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalArmor1_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalHelmet1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalHelmet1_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\Armor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthArmor1_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthHelmets1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthHelmets1_Multicam.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082D:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_USA",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Patriot Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Patriotic Camo Pattern"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000908:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000807:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

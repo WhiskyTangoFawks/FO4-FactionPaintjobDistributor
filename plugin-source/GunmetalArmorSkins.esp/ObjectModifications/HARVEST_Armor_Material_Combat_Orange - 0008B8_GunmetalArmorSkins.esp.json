@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008B8:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Orange",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Orange"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "You look like a walking pumpkin."
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00095A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00088B:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.2
+    }
+  ]
+}

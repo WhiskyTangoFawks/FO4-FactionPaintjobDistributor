@@ -1,0 +1,58 @@
+{
+  "FormKey": "000809:GunmetalArmorSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_ArmorPaint_Black",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Arm.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Arm_MilSpec.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Helmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Helmet_MilSpec.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Leg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Leg_MilSpec.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_MilSpec.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\Torso_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\TorsoStuds.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\TorsoStuds_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalArmor1_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalHelmet1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalHelmet1_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\Armor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthArmor1_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthHelmets1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthHelmets1_Black.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

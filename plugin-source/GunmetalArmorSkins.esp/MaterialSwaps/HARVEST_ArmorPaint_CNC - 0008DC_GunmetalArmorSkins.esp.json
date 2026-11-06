@@ -1,0 +1,34 @@
+{
+  "FormKey": "0008DC:GunmetalArmorSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_ArmorPaint_CNC",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Arm.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Arm_CNC.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Helmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Helmet_CNC.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Leg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Leg_CNC.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_CNC.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\Armor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_CNC.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

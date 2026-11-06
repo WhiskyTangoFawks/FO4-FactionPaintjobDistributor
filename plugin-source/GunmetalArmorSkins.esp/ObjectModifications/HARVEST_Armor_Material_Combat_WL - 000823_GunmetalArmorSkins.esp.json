@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000823:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_WL",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Woodland Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Woodland camo pattern for forested enviroments"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000928:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Step": 5.0,
+      "Record": "000802:GunmetalArmorSkins.esp",
+      "Value": 5,
+      "FunctionType": "Add"
+    }
+  ]
+}

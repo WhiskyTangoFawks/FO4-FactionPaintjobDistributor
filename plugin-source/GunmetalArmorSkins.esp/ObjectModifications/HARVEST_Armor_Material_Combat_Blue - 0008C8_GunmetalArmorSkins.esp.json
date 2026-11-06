@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008C8:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Blue",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Do be so Blue"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "00093A:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00088F:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.7
+    }
+  ]
+}

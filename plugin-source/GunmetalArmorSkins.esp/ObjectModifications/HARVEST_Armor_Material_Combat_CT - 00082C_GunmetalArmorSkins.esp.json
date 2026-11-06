@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082C:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_CT",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Tide Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Camo Pattern"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "0008E0:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000806:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "FormKey": "000A2B:GunmetalArmorSkins.esp",
+  "EditorID": "ma_color_HARVEST_ArmorPaint",
+  "FormVersion": 71,
+  "Color": "#00FFFFFF",
+  "Notes": "used for standard clothing and armor linings that add things like Fire Resistance, Cryo Resistance, etc.",
+  "Type": "ModAssociation"
+}

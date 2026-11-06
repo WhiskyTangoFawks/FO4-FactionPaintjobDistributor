@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000894:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Hunter",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hunter Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Hunter's Camo Pattern"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "0008F0:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000878:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

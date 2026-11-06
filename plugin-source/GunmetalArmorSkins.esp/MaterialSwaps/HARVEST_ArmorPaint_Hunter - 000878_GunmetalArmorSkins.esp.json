@@ -1,0 +1,58 @@
+{
+  "FormKey": "000878:GunmetalArmorSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_ArmorPaint_Hunter",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Arm.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Arm_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Helmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Helmet_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Leg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Leg_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Combat\\CombatArmor_Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\Torso.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\Torso_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Leather\\TorsoStuds.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Leather\\TorsoStuds_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalArmor1_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Metal\\MetalHelmet1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Metal\\MetalHelmet1_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\Armor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Combat\\CombatArmor_Torso_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthArmor1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthArmor1_Hunter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Synth\\SynthHelmets1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Synth\\SynthHelmets1_Hunter.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

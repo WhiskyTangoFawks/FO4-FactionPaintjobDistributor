@@ -1,0 +1,31 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000881:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Navy",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Navy Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Navy Blue"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "0009D2:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00087B:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.8
+    }
+  ]
+}

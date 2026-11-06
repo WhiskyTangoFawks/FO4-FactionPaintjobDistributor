@@ -1,0 +1,15 @@
+{
+  "ModKey": "GunmetalArmorSkins.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2606
+    },
+    "Author": "",
+    "INCC": 0
+  }
+}

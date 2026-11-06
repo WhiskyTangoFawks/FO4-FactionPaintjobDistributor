@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082E:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_Snow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light colored camo for snowy enviroments"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2B:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000918:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000808:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}

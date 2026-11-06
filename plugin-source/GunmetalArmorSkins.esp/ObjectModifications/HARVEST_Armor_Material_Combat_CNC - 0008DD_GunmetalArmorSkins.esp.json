@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008DD:GunmetalArmorSkins.esp",
+  "EditorID": "HARVEST_Armor_Material_Combat_CNC",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Chrome and Carbon"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Camo Pattern"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2C:GunmetalArmorSkins.esp"
+  ],
+  "LooseMod": "000936:GunmetalArmorSkins.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0008DC:GunmetalArmorSkins.esp",
+      "FunctionType": "Add"
+    }
+  ]
+}
