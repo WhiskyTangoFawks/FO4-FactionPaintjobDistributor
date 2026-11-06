@@ -1,6 +1,13 @@
 {
+  "MutagenObjectType": "GlobalFloat",
   "FormKey": "24A0FE:Fallout4.esm",
-  "Malformed": [
-    "GLOB 0024A0FE (CC_HasArmorSkins) — glob-fnam-not-a-type-letter, repairable (drops 7 bytes): FNAM is 0x00; vanilla writes s, l, f or no FNAM"
-  ]
+  "MajorRecordFlagsRaw": 64,
+  "EditorID": "CC_HasArmorSkins",
+  "Fallout4MajorRecordFlags": [
+    "0x40"
+  ],
+  "MajorFlags": [
+    "Constant"
+  ],
+  "Data": 1.0
 }
