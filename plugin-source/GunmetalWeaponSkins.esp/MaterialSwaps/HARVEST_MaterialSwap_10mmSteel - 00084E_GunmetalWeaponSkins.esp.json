@@ -1,0 +1,50 @@
+{
+  "FormKey": "00084E:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_10mmSteel",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmCompensatorSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmHeavyBarrelSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmLongBarrelSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmLongPortedBarrelSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmMagSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmPistolSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmPortedHeavyBarrelSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmReflexSightSteel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Steel\\10mmSuppressorSteel.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

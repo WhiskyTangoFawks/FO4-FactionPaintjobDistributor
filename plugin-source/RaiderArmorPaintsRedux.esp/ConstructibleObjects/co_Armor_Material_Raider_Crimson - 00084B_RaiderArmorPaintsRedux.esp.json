@@ -1,0 +1,21 @@
+{
+  "FormKey": "00084B:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Crimson",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Camo"
+  },
+  "CreatedObject": "00082F:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 80
+    }
+  ]
+}

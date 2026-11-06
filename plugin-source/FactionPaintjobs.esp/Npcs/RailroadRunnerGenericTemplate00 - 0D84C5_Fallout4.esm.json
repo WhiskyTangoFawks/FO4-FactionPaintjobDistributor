@@ -1,0 +1,293 @@
+{
+  "FormKey": "0D84C5:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "RailroadRunnerGenericTemplate00",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "AutoCalcStats"
+  ],
+  "Level": {
+    "MutagenObjectType": "NpcLevel",
+    "Level": 10
+  },
+  "DispositionBase": 35,
+  "Unknown": 28520,
+  "Factions": [
+    {
+      "Faction": "0035DE:Fallout4.esm"
+    },
+    {
+      "Faction": "061BE6:Fallout4.esm"
+    },
+    {
+      "Faction": "0994F6:Fallout4.esm"
+    },
+    {
+      "Faction": "0BDAAA:Fallout4.esm"
+    }
+  ],
+  "Voice": "013AD2:Fallout4.esm",
+  "Race": "013746:Fallout4.esm",
+  "AttackRace": "013746:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "0585A4:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "065A3C:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "0673B2:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "08B131:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsAllies",
+  "Class": "05F971:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Railroad Agent"
+  },
+  "CalculatedHealth": 135,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "01EEBB:Fallout4.esm",
+    "01F735:Fallout4.esm",
+    "02B891:Fallout4.esm",
+    "0423AF:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "11CCBD:Fallout4.esm",
+    "135A95:Fallout4.esm",
+    "1437FF:Fallout4.esm",
+    "143800:Fallout4.esm"
+  ],
+  "HairColor": "0A042D:Fallout4.esm",
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "0DC93C:Fallout4.esm",
+  "TextureLighting": "#F7EFEE",
+  "Morphs": [
+    {
+      "Key": 921646461,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646308,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646248,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646233,
+      "Value": 1.0
+    }
+  ],
+  "FaceTintingLayers": [
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1203,
+      "Value": 0.52,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1202
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 0,
+      "Position": "0.077922, -0.142589, 0.008005",
+      "Rotation": "0.547593, 0, 0"
+    },
+    {
+      "Index": 1,
+      "Position": "-0.325331, -0.419276, -0.56157297"
+    },
+    {
+      "Index": 2,
+      "Position": "0.32593, 0.369578, -0.200237"
+    },
+    {
+      "Index": 3,
+      "Position": "-0.278025, 0.501275, -0.439961"
+    },
+    {
+      "Index": 4,
+      "Position": "0, 0, -0.276237",
+      "Scale": -0.690713
+    },
+    {
+      "Index": 5,
+      "Position": "0, 0.644001, -0.591868",
+      "Rotation": "0, -0.14673, 0",
+      "Scale": -0.307309
+    },
+    {
+      "Index": 6,
+      "Position": "0.24873699, 0.613481, 0.242924"
+    },
+    {
+      "Index": 7,
+      "Position": "-0.069647, -0.232914, -0.237641"
+    },
+    {
+      "Index": 8,
+      "Position": "0.291054, -0.384949, -0.291828"
+    },
+    {
+      "Index": 9,
+      "Position": "0.34, 0.71999997, -0.498056",
+      "Scale": -0.61
+    },
+    {
+      "Index": 10,
+      "Position": "0.141616, -0.642988, -0.602475"
+    },
+    {
+      "Index": 25,
+      "Position": "0, 0.157661, -0.051237"
+    },
+    {
+      "Index": 26,
+      "Position": "-0.34328, 0.629234, -0.241346"
+    },
+    {
+      "Index": 27,
+      "Position": "0.479146, -0.336546, 0.511062"
+    },
+    {
+      "Index": 921646266,
+      "Position": "0.504831, 0.197746, 0.046949"
+    },
+    {
+      "Index": 921646267,
+      "Position": "0, 0.381343, 0.579323"
+    },
+    {
+      "Index": 921646268,
+      "Position": "0, 0.525573, -0.188144"
+    },
+    {
+      "Index": 921646269,
+      "Position": "-0.56847, 0.308442, -0.441036",
+      "Scale": -0.55498
+    },
+    {
+      "Index": 921646270,
+      "Position": "0, 0, -0.015827"
+    },
+    {
+      "Index": 921646271,
+      "Position": "0.689453, -0.328652, -0.599554",
+      "Rotation": "-0.554788, 0, -0.439965",
+      "Scale": 0.522
+    },
+    {
+      "Index": 921646272,
+      "Position": "0, -0.583551, 0.588863"
+    },
+    {
+      "Index": 921646273,
+      "Position": "-0.11, -0.08, -0.103773",
+      "Scale": -0.368663
+    },
+    {
+      "Index": 921646274,
+      "Position": "0, -0.674476, -0.67869"
+    },
+    {
+      "Index": 921646275,
+      "Position": "0.360563, 0.304034, 0.60521",
+      "Scale": 0.391572
+    },
+    {
+      "Index": 921646276,
+      "Position": "-0.395234, 0.283452, 0.693797"
+    },
+    {
+      "Index": 921646277,
+      "Position": "-0.457286, 0.333897, 0.091199",
+      "Rotation": "0, 0, -0.693085"
+    },
+    {
+      "Index": 921646278,
+      "Position": "0, -0.618647, -0.645651",
+      "Scale": -0.218261
+    },
+    {
+      "Index": 921646279,
+      "Position": "0, 0.157977, -0.00878",
+      "Scale": -0.596012
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

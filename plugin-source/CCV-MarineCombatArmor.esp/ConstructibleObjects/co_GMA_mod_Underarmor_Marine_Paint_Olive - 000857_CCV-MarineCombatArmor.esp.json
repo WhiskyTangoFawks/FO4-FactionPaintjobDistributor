@@ -1,0 +1,20 @@
+{
+  "FormKey": "000857:CCV-MarineCombatArmor.esp",
+  "EditorID": "co_GMA_mod_Underarmor_Marine_Paint_Olive",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "CreatedObject": "000843:CCV-MarineCombatArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

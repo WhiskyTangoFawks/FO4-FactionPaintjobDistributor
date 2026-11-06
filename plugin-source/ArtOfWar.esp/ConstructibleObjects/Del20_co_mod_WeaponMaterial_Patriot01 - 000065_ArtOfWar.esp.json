@@ -1,0 +1,59 @@
+{
+  "FormKey": "000065:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_Patriot01",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "059B2E:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "1D2462:Fallout4.esm",
+        "ParameterOneNumber": 1909858
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DC:Fallout4.esm",
+        "ParameterOneNumber": 303324
+      }
+    }
+  ],
+  "CreatedObject": "000063:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

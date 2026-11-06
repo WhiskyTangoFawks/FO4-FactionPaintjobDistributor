@@ -1,0 +1,10 @@
+{
+  "FormKey": "000D62:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Bathrobe_White",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Bathrobe\\Bathrobes.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Bathrobe\\Bathrobes_White.BGSM"
+    }
+  ]
+}

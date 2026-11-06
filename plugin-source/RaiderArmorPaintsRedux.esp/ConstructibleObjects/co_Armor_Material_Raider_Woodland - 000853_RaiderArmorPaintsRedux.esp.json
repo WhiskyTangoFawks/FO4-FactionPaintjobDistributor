@@ -1,0 +1,21 @@
+{
+  "FormKey": "000853:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Woodland",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Woodland Camo"
+  },
+  "CreatedObject": "000837:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 80
+    }
+  ]
+}

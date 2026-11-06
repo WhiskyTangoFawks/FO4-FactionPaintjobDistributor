@@ -1,0 +1,20 @@
+{
+  "FormKey": "0013FA:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_MacCreadyHAT_Red",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "MacCready's Hat"
+  },
+  "CreatedObject": "0013EF:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "FormKey": "00085C:CCV-MarineCombatArmor.esp",
+  "EditorID": "co_GMA_mod_Underarmor_Marine_Paint_Silver",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Silver"
+  },
+  "CreatedObject": "000848:CCV-MarineCombatArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

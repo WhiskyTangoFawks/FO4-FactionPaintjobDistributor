@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000D40:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_DCGuardArmor_Olive",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab Guard outfit"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00175E:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000806:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

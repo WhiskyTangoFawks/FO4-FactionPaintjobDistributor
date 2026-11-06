@@ -1,0 +1,90 @@
+{
+  "FormKey": "0008CB:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_CombatGunRed",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\CombatShotgunRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\CombatShotgunRecieverRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\CombatShotgunRecoilStockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\CombatShotgunReflexSightDark.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\CombatShotgunShroudedBarrelRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotGun\\CombatShotgunSightsRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\ShotgunSuppressorRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\308andMagsRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\308andMagsRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\308MuzzleBreakRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\FlutedBarrelRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRiflePortedBarrelRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleScopeDark.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleScopeDielectricDark.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleShortStockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleSilencerRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\HuntingRifleStockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\TacticalStock\\TacticalStockRed.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000840:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Wood_Dark",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dark Oak Wood"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "A darker breed of Oak wood"
+  },
+  "AttachPoint": "00083B:GunmetalWeaponSkins.esp",
+  "TargetOmodKeywords": [
+    "00083C:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00083D:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

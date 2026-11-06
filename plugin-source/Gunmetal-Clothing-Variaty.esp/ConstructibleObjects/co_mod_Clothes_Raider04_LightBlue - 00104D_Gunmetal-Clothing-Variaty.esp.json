@@ -1,0 +1,24 @@
+{
+  "FormKey": "00104D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider04_LightBlue",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue Harness"
+  },
+  "CreatedObject": "0008FB:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

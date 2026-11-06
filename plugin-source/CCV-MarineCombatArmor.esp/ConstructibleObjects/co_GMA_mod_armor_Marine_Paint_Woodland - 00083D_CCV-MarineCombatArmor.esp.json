@@ -1,0 +1,20 @@
+{
+  "FormKey": "00083D:CCV-MarineCombatArmor.esp",
+  "EditorID": "co_GMA_mod_armor_Marine_Paint_Woodland",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Woodland Camo"
+  },
+  "CreatedObject": "000829:CCV-MarineCombatArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

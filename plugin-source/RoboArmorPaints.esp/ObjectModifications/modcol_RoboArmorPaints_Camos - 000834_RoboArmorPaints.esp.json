@@ -1,0 +1,55 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000834:RoboArmorPaints.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_RoboArmorPaints_Camos",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "000828:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000829:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082A:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082B:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082C:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082D:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082E:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082F:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000830:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

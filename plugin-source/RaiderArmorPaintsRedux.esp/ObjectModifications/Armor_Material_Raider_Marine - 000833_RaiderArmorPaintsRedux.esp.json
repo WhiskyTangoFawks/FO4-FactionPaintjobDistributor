@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000833:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Marine",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Marine Blue Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Marine Blue Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080A:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

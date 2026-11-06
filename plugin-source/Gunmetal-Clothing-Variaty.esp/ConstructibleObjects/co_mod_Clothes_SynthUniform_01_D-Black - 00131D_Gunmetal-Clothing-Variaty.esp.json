@@ -1,0 +1,24 @@
+{
+  "FormKey": "00131D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_SynthUniform_01_D-Black",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Synth Retention Bureau Uniform. White base with Black harness, Pants, and Accents."
+  },
+  "CreatedObject": "0012F9:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000EC4:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_MinutemanGeneral_White_HAT",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "White"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "White Minuteman General Outfit"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001754:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000E50:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

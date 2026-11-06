@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000828:CCV-MarineCombatArmor.esp",
+  "EditorID": "GMA_mod_armor_Marine_Paint_Winter",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000815:CCV-MarineCombatArmor.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "24A0C1:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000812:CCV-MarineCombatArmor.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

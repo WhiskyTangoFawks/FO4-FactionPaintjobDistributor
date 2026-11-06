@@ -1,0 +1,11 @@
+{
+  "FormKey": "000001:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "ap_LeverGunWoodFinish",
+  "Color": "#00FFFFFF",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wood Finish"
+  }
+}

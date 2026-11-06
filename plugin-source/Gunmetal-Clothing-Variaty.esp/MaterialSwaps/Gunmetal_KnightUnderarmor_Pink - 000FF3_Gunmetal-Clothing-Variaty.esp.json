@@ -1,0 +1,10 @@
+{
+  "FormKey": "000FF3:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_KnightUnderarmor_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\KnightUnderArmor\\KnightBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\KnightUnderArmor\\KnightBody_Pink.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "000851:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Snow",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "CreatedObject": "000835:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 80
+    }
+  ]
+}

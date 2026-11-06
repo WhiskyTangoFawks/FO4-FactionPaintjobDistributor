@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000980:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Wood_ICE",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Ice Cube"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Frosted Icy Blue"
+  },
+  "AttachPoint": "00083B:GunmetalWeaponSkins.esp",
+  "TargetOmodKeywords": [
+    "00083C:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000974:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

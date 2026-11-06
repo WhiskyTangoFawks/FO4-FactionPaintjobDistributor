@@ -1,0 +1,14 @@
+{
+  "FormKey": "000C26:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RaiderUnderarmor_DeathClaw",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderUnderArmor\\RaiderUnderarmorF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderUnderArmor\\RaiderUnderarmorF_DeathClaw.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderUnderArmor\\RaiderUnderarmorM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderUnderArmor\\RaiderUnderarmorM_DeathClaw.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "FormKey": "000040:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12523,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Gunslinger",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Gunslinger\\ShotgunStock_Gunslinger.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRiflePortedBarrel_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\FlutedBarrel_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifleScope_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Gunslinger\\ShotgunBarrelLong_Gunslinger.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Gunslinger\\ShotgunReceiver_Gunslinger.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Gunslinger\\44ReflexSight_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\308MuzzleBreak_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\TacticalStock_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifle_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Gunslinger\\44BullBarrel_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Gunslinger\\44RubberGrip_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\308andMags_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifleSilencer_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Gunslinger\\44_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifleStock_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Gunslinger\\44Scope_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifleScopeDielectric_Gunslinger.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Gunslinger\\DoubleBarrelMuzzleBreaks_Gunslinger.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Gunslinger\\HuntingRifleShortStock_Gunslinger.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

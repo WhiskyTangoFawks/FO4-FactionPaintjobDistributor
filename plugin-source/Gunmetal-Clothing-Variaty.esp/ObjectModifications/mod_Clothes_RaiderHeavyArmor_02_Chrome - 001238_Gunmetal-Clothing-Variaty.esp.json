@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001238:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RaiderHeavyArmor_02_Chrome",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Chrome"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Spike/Cage Armor paint."
+  },
+  "AttachPoint": "001718:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001746:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0011E8:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

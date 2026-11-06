@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000A27:GunmetalWeaponSkins.esp",
+  "EditorID": "Weapon_Material_Default_PipeWood",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "No Material"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "00083B:GunmetalWeaponSkins.esp",
+  "TargetOmodKeywords": [
+    "00083C:GunmetalWeaponSkins.esp"
+  ]
+}

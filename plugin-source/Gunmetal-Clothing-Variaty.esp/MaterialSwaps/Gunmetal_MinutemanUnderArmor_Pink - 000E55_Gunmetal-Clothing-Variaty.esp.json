@@ -1,0 +1,14 @@
+{
+  "FormKey": "000E55:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_MinutemanUnderArmor_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanHat_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanUnderArmor_Pink.BGSM"
+    }
+  ]
+}

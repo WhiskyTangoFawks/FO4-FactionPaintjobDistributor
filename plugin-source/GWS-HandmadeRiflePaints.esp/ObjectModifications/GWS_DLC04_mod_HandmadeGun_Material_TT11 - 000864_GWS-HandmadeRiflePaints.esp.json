@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000864:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_mod_HandmadeGun_Material_TT11",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Christmas"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "04D93A:DLCNukaWorld.esm",
+  "TargetOmodKeywords": [
+    "0008D7:GWS-HandmadeRiflePaints.esp"
+  ],
+  "LooseMod": "0008C0:GWS-HandmadeRiflePaints.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080B:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000829:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

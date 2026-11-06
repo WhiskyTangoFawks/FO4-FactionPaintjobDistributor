@@ -1,0 +1,14 @@
+{
+  "FormKey": "000C0C:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RaiderUnderarmor_Tan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderUnderArmor\\RaiderUnderarmorF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderUnderArmor\\RaiderUnderarmorF_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderUnderArmor\\RaiderUnderarmorM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderUnderArmor\\RaiderUnderarmorM_Tan.BGSM"
+    }
+  ]
+}

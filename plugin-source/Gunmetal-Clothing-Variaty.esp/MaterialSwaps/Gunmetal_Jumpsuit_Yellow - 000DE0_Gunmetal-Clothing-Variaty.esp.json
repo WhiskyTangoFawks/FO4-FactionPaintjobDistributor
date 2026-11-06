@@ -1,0 +1,10 @@
+{
+  "FormKey": "000DE0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Jumpsuit_Yellow",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\RedRocketJumpsuit\\RRJumpsuit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\RedRocketJumpsuit\\GenericJumpsuit_Yellow.BGSM"
+    }
+  ]
+}

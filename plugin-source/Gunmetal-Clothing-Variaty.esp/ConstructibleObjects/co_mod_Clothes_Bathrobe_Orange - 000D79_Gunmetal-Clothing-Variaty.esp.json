@@ -1,0 +1,24 @@
+{
+  "FormKey": "000D79:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Bathrobe_Orange",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Orange Bathrobe"
+  },
+  "CreatedObject": "000D6C:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

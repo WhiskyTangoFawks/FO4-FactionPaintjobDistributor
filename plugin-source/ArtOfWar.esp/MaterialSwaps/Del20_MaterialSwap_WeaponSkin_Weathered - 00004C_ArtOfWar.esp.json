@@ -1,0 +1,62 @@
+{
+  "FormKey": "00004C:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12487,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Weathered",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmCompensator_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmBarrelLong_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmWoodenGrips_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmHeavyBarrel_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmMag_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmRubberGrips_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmLongPortedBarrel_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmPistol_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmLongBarrel_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmPortedHeavyBarrel_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmReflexSight_Weathered.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Weathered\\10mmSuppressor_Weathered.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

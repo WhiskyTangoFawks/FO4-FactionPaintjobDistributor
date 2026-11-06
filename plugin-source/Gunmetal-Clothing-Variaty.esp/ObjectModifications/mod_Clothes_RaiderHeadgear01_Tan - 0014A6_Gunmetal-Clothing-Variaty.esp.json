@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0014A6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RaiderHeadgear01_Tan",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tan"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Tan Sack Hood"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001739:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001498:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

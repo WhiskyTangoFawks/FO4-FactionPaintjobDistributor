@@ -1,0 +1,562 @@
+{
+  "FormKey": "000007:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12548,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Checkpoint",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "MG\\249.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\249.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_10.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_10.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunScope01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserMuzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserMuzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunSilencer01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaser.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec1.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Rec1.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_09.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_09.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Irons.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Irons.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunBarrelShort01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifleScopeDielectric_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_02.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_02.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Checkpoint\\ShotgunStock_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRiflePortedBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\MissileLauncherMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmMag_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgunRecoilStock_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunBarrelLong01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Checkpoint\\44ReflexSight_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmWoodenGrips_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifleStock_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Checkpoint\\44Scope_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Checkpoint\\Drum_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "MG\\Buffer.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Buffer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_01.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifle_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunRear.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\MinigunRear.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\InstituteReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\Missile_Launcher_Muzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\Missile_Launcher_Muzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun3Barrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\Minigun3Barrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmCompensator_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\TGunDrum_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgunReflexSight_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserSuperBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunGunnerSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\MinigunGunnerSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmLongPortedBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_05.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_05.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Vent.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Vent.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\tgunbarrelfinned_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\ShotgunSuppressor_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_08.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_08.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\MissileLauncherScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\MissleLauncher.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\MissileLauncher.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Heat.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Heat.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\FlutedBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\EJP.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\EJP.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Checkpoint\\44_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Checkpoint\\44RubberGrip_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmSuppressor_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmPortedHeavyBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\FS.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\FS.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmHeavyBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_07.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_07.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunMeatgrinder.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\MinigunMeatgrinder.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunMagStraight01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgunSights_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\308andMags_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_04.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_04.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgun_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\MissileLauncherTrippleMag2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgunShroudedBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunReceiver01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MGGrips.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\LauncherReceiverLeather.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\LauncherReceiverLeather.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Checkpoint\\ShotgunReceiver_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Checkpoint\\Mags_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Checkpoint\\ShotgunBarrelLong_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Rec2.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Checkpoint\\45REC_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\Minigun.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Checkpoint\\DoubleBarrelMuzzleBreaks_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Checkpoint\\MinigunBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunReceiver01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MGScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunScope01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\TargetBox.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\TargetBox.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\TacticalStock_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Checkpoint\\MissileLauncherTrippleMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifleShortStock_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmReflexSight_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_03.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_03.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifleSilencer_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserSuperBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\tgunmuzzle1_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\JK.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\JK.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Mini.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Mini.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmBarrelLong_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserScreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserScreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmRubberGrips_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\RecParts.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\RecParts.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\TGunReceiver_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\TGunGrip1_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Checkpoint\\TGunBarrel_Checkpoint.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_06.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\Laser_Gun_Set_06.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmLongBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\MGGreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\MGGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Checkpoint\\InstituteReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\HuntingRifleScope_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Checkpoint\\CombatShotgunReciever_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\308MuzzleBreak_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Checkpoint\\GatlingLaserSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Checkpoint\\44BullBarrel_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MachineGunMagDrum01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Checkpoint\\308andMags_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Checkpoint\\10mmPistol_Checkpoint.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Checkpoint\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Checkpoint\\MGBarrels.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Saw.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Checkpoint\\Saw.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

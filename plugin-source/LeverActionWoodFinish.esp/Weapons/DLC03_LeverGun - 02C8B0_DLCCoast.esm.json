@@ -1,0 +1,436 @@
+{
+  "FormKey": "02C8B0:DLCCoast.esm",
+  "MajorRecordFlagsRaw": 1073741824,
+  "VersionControl": 11844,
+  "EditorID": "DLC03_LeverGun",
+  "Version2": 9,
+  "Fallout4MajorRecordFlags": [
+    "0x40000000"
+  ],
+  "PreviewTransform": "031C16:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lever Action Rifle"
+  },
+  "Model": {
+    "File": "Weapons\\HuntingRifle\\HuntingRifleDummyParent.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "EquipmentType": "013F45:Fallout4.esm",
+  "BlockBashImpactDataSet": "123EE5:Fallout4.esm",
+  "PickUpSound": "034923:Fallout4.esm",
+  "PutDownSound": "01F5C3:Fallout4.esm",
+  "Keywords": [
+    "0F4AEA:Fallout4.esm",
+    "04A0A1:Fallout4.esm",
+    "049CCB:DLCCoast.esm",
+    "10C485:Fallout4.esm",
+    "03ADB4:Fallout4.esm",
+    "092A86:Fallout4.esm",
+    "02F834:DLCCoast.esm",
+    "002B12:DLCCoast.esm",
+    "1C9E78:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InstanceNaming": "2377CF:Fallout4.esm",
+  "AttachParentSlots": [
+    "024004:Fallout4.esm",
+    "0498A0:Fallout4.esm",
+    "1E32C8:Fallout4.esm",
+    "000001:LeverActionWoodFinish.esp"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Default"
+      },
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6D:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6E:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6F:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04F21D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Simple Rifle"
+      },
+      "Keywords": [
+        "1642A7:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6D:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6E:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6F:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04F21D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Simple Epic"
+      },
+      "AddonIndex": 1,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Random"
+      },
+      "Keywords": [
+        "1642A6:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A649:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A647:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A644:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A64A:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A648:DLCCoast.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Random Epic"
+      },
+      "AddonIndex": 3,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Short Rifle"
+      },
+      "Keywords": [
+        "0D9C98:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6D:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6E:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6F:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04F21D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Short Rifle Epic"
+      },
+      "AddonIndex": 5,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A649:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6E:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A646:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A64D:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A648:DLCCoast.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Rifle"
+      },
+      "Keywords": [
+        "0CF793:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "049CC9:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6E:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E6F:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04F21D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Rifle Epic"
+      },
+      "AddonIndex": 7,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A649:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A647:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A645:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A64A:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A648:DLCCoast.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Sniper Rifle"
+      },
+      "Keywords": [
+        "0CF797:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "042E70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "049CC9:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "049CC7:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "049CC2:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04F21D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Sniper Rifle"
+      },
+      "AddonIndex": 9,
+      "Keywords": [
+        "05F42D:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "04A643:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A649:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A647:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A645:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A64C:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "04A648:DLCCoast.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "Ammo": "02C8B1:DLCCoast.esm",
+  "Speed": 1.0,
+  "ReloadSpeed": 1.0,
+  "Reach": 1.0,
+  "MinRange": 256.0,
+  "MaxRange": 256.0,
+  "AttackDelay": 0.5,
+  "DamageOutOfRangeMult": 0.5,
+  "Flags": [
+    "CritEffectOnDeath",
+    "BoltAction"
+  ],
+  "Capacity": 5,
+  "AnimationType": "Gun",
+  "SecondaryDamage": 4.0,
+  "Weight": 6.0,
+  "Value": 150,
+  "BaseDamage": 35,
+  "UnequipSound": "1526AC:Fallout4.esm",
+  "AnimationAttackSeconds": 0.6666667,
+  "ActionPointCost": 26.0,
+  "Stagger": "Small",
+  "Unknown3": 2139095039,
+  "ExtraData": {
+    "AnimationFireSeconds": 1E-05,
+    "RumbleLeftMotorStrength": 0.5,
+    "RumbleRightMotorStrength": 1.0,
+    "RumbleDuration": 0.33,
+    "AnimationReloadSeconds": 3.8000102,
+    "BoltAnimSeconds": 1.0,
+    "SightedTransitionSeconds": 0.2,
+    "NumProjectiles": 1
+  },
+  "CritDamageMult": 2.0,
+  "CritChargeBonus": 1.0,
+  "ImpactDataSet": "004B37:Fallout4.esm",
+  "NpcAddAmmoList": "042E72:DLCCoast.esm",
+  "AimModel": "049CCC:DLCCoast.esm",
+  "Zoom": "04B246:Fallout4.esm",
+  "MajorFlags": [
+    "0x40000000"
+  ]
+}

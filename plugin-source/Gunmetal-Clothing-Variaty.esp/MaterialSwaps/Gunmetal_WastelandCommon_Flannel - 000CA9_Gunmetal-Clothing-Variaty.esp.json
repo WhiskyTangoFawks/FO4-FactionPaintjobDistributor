@@ -1,0 +1,10 @@
+{
+  "FormKey": "000CA9:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_WastelandCommon_Flannel",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\WastelandCommon\\WastelandCommon.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\WastelandCommon\\WastelandCommon_Plaid.BGSM"
+    }
+  ]
+}

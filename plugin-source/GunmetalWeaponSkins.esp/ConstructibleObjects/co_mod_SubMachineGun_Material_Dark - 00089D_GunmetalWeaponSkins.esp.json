@@ -1,0 +1,24 @@
+{
+  "FormKey": "00089D:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_SubMachineGun_Material_Dark",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00089C:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "0012B0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Resident4Hat_Olive",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab Trilby Hat"
+  },
+  "CreatedObject": "001297:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

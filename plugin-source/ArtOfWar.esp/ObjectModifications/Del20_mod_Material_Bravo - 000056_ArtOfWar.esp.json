@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000056:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Bravo",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tango-Foxtrot Bravo Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Sturdy and grungy machine gun design."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FA7:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000055:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

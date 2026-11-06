@@ -1,0 +1,28 @@
+{
+  "FormKey": "00126A:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderHeavyArmor_02_Chrome",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Spike/Cage Armor paint."
+  },
+  "CreatedObject": "001238:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

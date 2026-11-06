@@ -1,0 +1,24 @@
+{
+  "FormKey": "00126C:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderHeavyArmor_02_Shadow",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Matte Black Spike/Cage Armor paint. Perfect for hiding in the shadows."
+  },
+  "CreatedObject": "00123A:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

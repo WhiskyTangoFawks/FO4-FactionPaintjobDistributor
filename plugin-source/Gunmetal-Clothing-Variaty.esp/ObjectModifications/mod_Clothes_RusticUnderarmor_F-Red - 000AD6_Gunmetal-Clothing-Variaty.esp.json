@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000AD6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RusticUnderarmor_F-Red",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Red Plaid"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Plaid Red Shirt and Jeans"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174D:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000AC5:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

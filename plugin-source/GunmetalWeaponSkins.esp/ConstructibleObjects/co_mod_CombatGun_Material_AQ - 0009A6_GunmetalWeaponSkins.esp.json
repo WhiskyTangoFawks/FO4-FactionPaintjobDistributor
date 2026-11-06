@@ -1,0 +1,24 @@
+{
+  "FormKey": "0009A6:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_CombatGun_Material_AQ",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00099F:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

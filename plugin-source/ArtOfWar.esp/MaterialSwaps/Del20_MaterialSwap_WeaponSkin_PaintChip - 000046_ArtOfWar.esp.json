@@ -1,0 +1,562 @@
+{
+  "FormKey": "000046:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12548,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_PaintChip",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "MG\\249.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\249.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_10.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_10.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunScope01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserMuzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserMuzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunSilencer01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaser.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec1.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Rec1.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_09.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_09.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Irons.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Irons.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunBarrelShort01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifleScopeDielectric_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_02.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_02.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\PaintChip\\ShotgunStock_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRiflePortedBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\MissileLauncherMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmMag_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgunRecoilStock_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunBarrelLong01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\PaintChip\\44ReflexSight_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmWoodenGrips_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifleStock_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\PaintChip\\44Scope_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\PaintChip\\Drum_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "MG\\Buffer.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Buffer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_01.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifle_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunRear.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\MinigunRear.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\InstituteReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\Missile_Launcher_Muzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\Missile_Launcher_Muzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun3Barrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\Minigun3Barrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmCompensator_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\TGunDrum_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgunReflexSight_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserSuperBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunGunnerSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\MinigunGunnerSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmLongPortedBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_05.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_05.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Vent.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Vent.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\tgunbarrelfinned_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\ShotgunSuppressor_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_08.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_08.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\MissileLauncherScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\MissleLauncher.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\MissileLauncher.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Heat.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Heat.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\FlutedBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\EJP.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\EJP.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\PaintChip\\44_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\PaintChip\\44RubberGrip_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmSuppressor_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmPortedHeavyBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\FS.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\FS.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmHeavyBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_07.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_07.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunMeatgrinder.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\MinigunMeatgrinder.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunMagStraight01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgunSights_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\308andMags_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_04.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_04.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgun_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\MissileLauncherTrippleMag2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgunShroudedBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunReceiver01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MGGrips.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\LauncherReceiverLeather.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\LauncherReceiverLeather.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\PaintChip\\ShotgunReceiver_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\PaintChip\\Mags_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\PaintChip\\ShotgunBarrelLong_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Rec2.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\PaintChip\\45REC_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\Minigun.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\PaintChip\\DoubleBarrelMuzzleBreaks_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\PaintChip\\MinigunBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunReceiver01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MGScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunScope01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\TargetBox.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\TargetBox.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\TacticalStock_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\PaintChip\\MissileLauncherTrippleMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifleShortStock_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmReflexSight_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_03.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_03.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifleSilencer_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserSuperBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\tgunmuzzle1_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\JK.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\JK.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Mini.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Mini.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmBarrelLong_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserScreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserScreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmRubberGrips_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\RecParts.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\RecParts.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\TGunReceiver_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\TGunGrip1_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\PaintChip\\TGunBarrel_PaintChip.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_06.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\Laser_Gun_Set_06.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmLongBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\MGGreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\MGGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\PaintChip\\InstituteReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\HuntingRifleScope_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\PaintChip\\CombatShotgunReciever_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\308MuzzleBreak_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\PaintChip\\GatlingLaserSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\PaintChip\\44BullBarrel_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MachineGunMagDrum01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\PaintChip\\308andMags_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\PaintChip\\10mmPistol_PaintChip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\PaintChip\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\PaintChip\\MGBarrels.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Saw.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\PaintChip\\Saw.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "001190:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_ArmyFatigues_03_Digital_Dirty",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dirty Army Fatigues"
+  },
+  "CreatedObject": "00117A:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000836:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Winter",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000814:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

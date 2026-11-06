@@ -1,0 +1,10 @@
+{
+  "FormKey": "0011E2:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2OverArmors_01_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyArmor_Pink.BGSM"
+    }
+  ]
+}

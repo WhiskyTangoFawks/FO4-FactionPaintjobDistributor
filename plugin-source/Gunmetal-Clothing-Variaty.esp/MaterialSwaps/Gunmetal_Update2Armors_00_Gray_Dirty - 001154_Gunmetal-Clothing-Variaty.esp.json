@@ -1,0 +1,18 @@
+{
+  "FormKey": "001154:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_00_Gray_Dirty",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Gray_Dirty.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatiguesPW.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Gray_Dirty.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Gray_Dirty.BGSM"
+    }
+  ]
+}

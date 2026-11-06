@@ -1,0 +1,39 @@
+{
+  "FormKey": "000892:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_MaterialSwap_SubmachineGunBronze",
+  "FormVersion": 122,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\ShotgunSuppressorBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunBarrelSHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunBarrelFinnedSHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunDrumSHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunGrip1SHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunMuzzle1SHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunReceiverSHBronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\308MuzzleBreakBronze.BGSM"
+    }
+  ]
+}

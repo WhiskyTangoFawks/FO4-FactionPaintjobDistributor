@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000826:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_LightBlue",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 90,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000808:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

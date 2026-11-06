@@ -1,0 +1,210 @@
+{
+  "FormKey": "000058:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12535,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_OakBush",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\FlutedBarrel_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifle_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\OakBush\\44_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\TacticalStock_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\OakBush\\44RubberGrip_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifleSilencer_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifleScopeDielectric_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\OakBush\\ShotgunStock_OakBush.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRiflePortedBarrel_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\OakBush\\44Scope_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\308andMags_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifleScope_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\OakBush\\44ReflexSight_OakBushe.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\OakBush\\ShotgunReceiver_OakBush.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\308MuzzleBreak_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\OakBush\\44BullBarrel_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\OakBush\\DoubleBarrelMuzzleBreaks_OakBush.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\OakBush\\ShotgunBarrelLong_OakBush.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifleStock_OakBush.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\OakBush\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\OakBush\\HuntingRifleShortStock_OakBush.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

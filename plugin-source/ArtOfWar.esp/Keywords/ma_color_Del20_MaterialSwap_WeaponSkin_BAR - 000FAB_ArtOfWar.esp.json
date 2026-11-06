@@ -1,0 +1,8 @@
+{
+  "FormKey": "000FAB:ArtOfWar.esp",
+  "EditorID": "ma_color_Del20_MaterialSwap_WeaponSkin_BAR",
+  "FormVersion": 71,
+  "Color": "#00FFFFFF",
+  "Notes": "used for standard clothing and armor linings that add things like Fire Resistance, Cryo Resistance, etc.",
+  "Type": "ModAssociation"
+}

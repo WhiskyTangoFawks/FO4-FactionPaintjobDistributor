@@ -1,0 +1,24 @@
+{
+  "FormKey": "000841:RoboArmorPaints.esp",
+  "EditorID": "co_mod_RoboArmorPaint_Orange",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Orange"
+  },
+  "CreatedObject": "000823:RoboArmorPaints.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

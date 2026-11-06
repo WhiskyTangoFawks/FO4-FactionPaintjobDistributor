@@ -1,0 +1,28 @@
+{
+  "FormKey": "001311:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_FatherLabCoat_Gold",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAA6:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gold Father's Labcoat"
+  },
+  "CreatedObject": "00130A:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

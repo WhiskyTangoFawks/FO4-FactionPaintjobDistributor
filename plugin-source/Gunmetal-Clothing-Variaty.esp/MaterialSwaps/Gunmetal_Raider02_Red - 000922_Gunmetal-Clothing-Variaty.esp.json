@@ -1,0 +1,22 @@
+{
+  "FormKey": "000922:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Raider02_Red",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Body_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider02\\Raider02.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider02\\Raider02_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider03\\Raider03Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider03\\Raider03Body_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider04\\Raider04.BGSM",
+      "ReplacementMaterial": "HAREVST\\Armor\\Raider04\\Raider04_Red.BGSM"
+    }
+  ]
+}

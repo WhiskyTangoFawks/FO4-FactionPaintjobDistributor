@@ -1,0 +1,61 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "17AE2C:Fallout4.esm",
+  "EditorID": "mod_armor_Combat_Arm_Material_0B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Brotherhood of Steel"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Adds Radiation Resistance."
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "121FBC:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "17B081:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Value",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A85:Fallout4.esm",
+      "Value": 15.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "14FBCC:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

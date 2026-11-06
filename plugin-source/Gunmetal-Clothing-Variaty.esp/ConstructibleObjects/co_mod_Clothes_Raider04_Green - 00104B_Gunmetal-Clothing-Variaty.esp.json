@@ -1,0 +1,24 @@
+{
+  "FormKey": "00104B:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider04_Green",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Green Harness"
+  },
+  "CreatedObject": "001034:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000821:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_BlueLite",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000808:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "FormKey": "0000DB:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_Weapon_Material_Default02",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0000DA:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

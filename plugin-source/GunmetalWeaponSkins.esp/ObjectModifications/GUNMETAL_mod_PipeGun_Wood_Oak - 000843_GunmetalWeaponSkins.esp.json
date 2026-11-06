@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000843:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Wood_Oak",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Oak Wood"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Common Oak Wood (Vanilla Textures)"
+  },
+  "AttachPoint": "00083B:GunmetalWeaponSkins.esp",
+  "TargetOmodKeywords": [
+    "00083C:GunmetalWeaponSkins.esp"
+  ]
+}

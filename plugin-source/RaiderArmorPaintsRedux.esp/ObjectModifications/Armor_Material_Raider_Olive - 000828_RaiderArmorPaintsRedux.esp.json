@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000828:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Olive",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 100,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080D:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "0009FF:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_PipeRevolver_Wood_White",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0009F6:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

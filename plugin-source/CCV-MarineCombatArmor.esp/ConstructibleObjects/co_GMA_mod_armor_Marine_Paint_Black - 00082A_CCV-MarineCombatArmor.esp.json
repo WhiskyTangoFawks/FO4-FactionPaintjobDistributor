@@ -1,0 +1,20 @@
+{
+  "FormKey": "00082A:CCV-MarineCombatArmor.esp",
+  "EditorID": "co_GMA_mod_armor_Marine_Paint_Black",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Black"
+  },
+  "CreatedObject": "000814:CCV-MarineCombatArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

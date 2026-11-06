@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000824:CCV-MarineCombatArmor.esp",
+  "EditorID": "GMA_mod_armor_Marine_Paint_Desert",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000815:CCV-MarineCombatArmor.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "24A0BF:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080E:CCV-MarineCombatArmor.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

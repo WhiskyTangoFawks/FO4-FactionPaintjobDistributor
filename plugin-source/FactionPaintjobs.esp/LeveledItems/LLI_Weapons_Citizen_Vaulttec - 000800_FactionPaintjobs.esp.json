@@ -1,0 +1,39 @@
+{
+  "FormKey": "000800:FactionPaintjobs.esp",
+  "EditorID": "LLI_Weapons_Citizen_Vaulttec",
+  "FormVersion": 103,
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "043225:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "043225:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "043225:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 18,
+        "Reference": "188A6B:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

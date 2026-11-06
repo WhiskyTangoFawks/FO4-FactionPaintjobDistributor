@@ -1,0 +1,14 @@
+{
+  "FormKey": "00082F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_MinutemanUnderArmor_Denim",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanUnderArmor_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "armor\\Minuteman\\General.BGSM",
+      "ReplacementMaterial": "HARVEST\\armor\\Minuteman\\General_Denim.BGSM"
+    }
+  ]
+}

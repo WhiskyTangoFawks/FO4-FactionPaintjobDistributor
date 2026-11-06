@@ -1,0 +1,24 @@
+{
+  "FormKey": "00134F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Cait_LightGray",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray Corset"
+  },
+  "CreatedObject": "001344:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

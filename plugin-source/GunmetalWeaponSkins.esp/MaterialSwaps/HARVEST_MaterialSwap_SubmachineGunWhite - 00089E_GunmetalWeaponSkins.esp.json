@@ -1,0 +1,35 @@
+{
+  "FormKey": "00089E:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_MaterialSwap_SubmachineGunWhite",
+  "FormVersion": 122,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CombatShotgun\\ShotgunSuppressorWhite.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunBarrelWhite.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunBarrelFinnedWhite.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunDrumWhite.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunMuzzle1White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\SMG\\TGunReceiverWhite.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\HuntingRifle\\308MuzzleBreakWhite.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000E6F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_MinutemanHat_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pink Militia Hat"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001752:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000E55:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

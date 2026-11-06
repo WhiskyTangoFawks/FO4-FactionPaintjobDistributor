@@ -1,0 +1,36 @@
+{
+  "FormKey": "00080E:RoboArmorPaints.esp",
+  "EditorID": "RoboArmorPaint_Yellow",
+  "FormVersion": 112,
+  "TreeFolder": "SetDressing",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorArmL.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorArmL_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorArmR.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorArmR_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorAssaultronHelm.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorAssaultronHelm_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorLegL.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorLegL_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorLegR.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorLegR_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorTorso.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorTorso_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboSentryHelmet.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboSentryHelmet_Yellow.BGSM"
+    }
+  ]
+}

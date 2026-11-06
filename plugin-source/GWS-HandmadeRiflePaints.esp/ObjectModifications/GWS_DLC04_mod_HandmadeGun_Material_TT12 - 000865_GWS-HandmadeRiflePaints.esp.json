@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000865:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_mod_HandmadeGun_Material_TT12",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hello Kitty"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "04D93A:DLCNukaWorld.esm",
+  "TargetOmodKeywords": [
+    "0008D7:GWS-HandmadeRiflePaints.esp"
+  ],
+  "LooseMod": "0008C2:GWS-HandmadeRiflePaints.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080F:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000824:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

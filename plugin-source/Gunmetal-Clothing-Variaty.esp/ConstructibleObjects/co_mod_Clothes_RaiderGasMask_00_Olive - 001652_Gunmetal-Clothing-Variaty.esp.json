@@ -1,0 +1,20 @@
+{
+  "FormKey": "001652:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderGasMask_00_Olive",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gas Mask"
+  },
+  "CreatedObject": "001642:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

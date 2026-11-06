@@ -1,0 +1,54 @@
+{
+  "FormKey": "000B20:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_ResidentBody_Denim",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident3Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident3Body_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident3Body2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident3Body2sided_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident3Hat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident3Hat_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident4.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident4_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident4TrilbyHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident4TrilbyHat_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident5Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident5Body_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident5Hat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident5Hat_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident6Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident6Body_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident6BodyF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident6BodyF_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident6Cap.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident6cap_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident7.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident7_Denim.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident7Hat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident7Hat_Denim.BGSM"
+    }
+  ]
+}

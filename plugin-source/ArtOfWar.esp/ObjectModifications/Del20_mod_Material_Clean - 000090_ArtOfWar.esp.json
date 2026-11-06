@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000090:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Clean",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Flawless Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Sleek, pristine, and positively spotless appearance. Untainted by the wild wasteland."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FA3:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.5,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00008D:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

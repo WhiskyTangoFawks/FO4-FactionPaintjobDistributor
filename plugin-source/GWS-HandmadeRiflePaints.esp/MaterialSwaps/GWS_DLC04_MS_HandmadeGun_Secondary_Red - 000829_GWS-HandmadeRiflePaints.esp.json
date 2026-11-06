@@ -1,0 +1,22 @@
+{
+  "FormKey": "000829:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_MS_HandmadeGun_Secondary_Red",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARDrumMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARDrumMag_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARMag30.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARMag30_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARMuzzles.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARMuzzles_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARScope_Red.BGSM"
+    }
+  ]
+}

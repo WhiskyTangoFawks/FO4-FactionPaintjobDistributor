@@ -1,0 +1,24 @@
+{
+  "FormKey": "001141:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_ArmyFatigues_03_Winter",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo Clean Army Fatigues"
+  },
+  "CreatedObject": "001119:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

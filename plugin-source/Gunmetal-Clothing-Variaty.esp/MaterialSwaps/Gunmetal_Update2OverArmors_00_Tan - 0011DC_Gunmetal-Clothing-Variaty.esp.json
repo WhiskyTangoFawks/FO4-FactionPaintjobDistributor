@@ -1,0 +1,10 @@
+{
+  "FormKey": "0011DC:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2OverArmors_00_Tan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyArmor_Tan.BGSM"
+    }
+  ]
+}

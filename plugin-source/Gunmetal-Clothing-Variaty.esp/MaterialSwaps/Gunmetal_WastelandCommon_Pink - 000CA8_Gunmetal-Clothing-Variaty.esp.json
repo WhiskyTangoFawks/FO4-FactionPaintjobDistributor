@@ -1,0 +1,10 @@
+{
+  "FormKey": "000CA8:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_WastelandCommon_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\WastelandCommon\\WastelandCommon.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\WastelandCommon\\WastelandCommon_Pink.BGSM"
+    }
+  ]
+}

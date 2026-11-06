@@ -1,0 +1,20 @@
+{
+  "FormKey": "0014F3:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderHeadgear03_Tan",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Tan Sack Hood with straps"
+  },
+  "CreatedObject": "0014B8:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

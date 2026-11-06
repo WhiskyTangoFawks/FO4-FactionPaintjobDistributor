@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000009:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_ToadSkin_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Toad Spot Camouflage"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Inverse of the 20th century frog skin pattern. Primarily used in Africa."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "24A0D7:Fallout4.esm"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000004:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

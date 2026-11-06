@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000824:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Green",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Green"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Green"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 90,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000806:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

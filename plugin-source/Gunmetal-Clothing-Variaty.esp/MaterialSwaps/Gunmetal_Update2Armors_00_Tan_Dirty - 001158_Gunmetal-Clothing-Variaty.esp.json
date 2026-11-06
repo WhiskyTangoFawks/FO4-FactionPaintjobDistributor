@@ -1,0 +1,18 @@
+{
+  "FormKey": "001158:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_00_Tan_Dirty",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Tan_Dirty.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatiguesPW.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Tan_Dirty.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Tan_Dirty.BGSM"
+    }
+  ]
+}

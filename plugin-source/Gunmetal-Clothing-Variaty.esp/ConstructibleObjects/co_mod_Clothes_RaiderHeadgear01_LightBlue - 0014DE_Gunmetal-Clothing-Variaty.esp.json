@@ -1,0 +1,20 @@
+{
+  "FormKey": "0014DE:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderHeadgear01_LightBlue",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue Sack Hood"
+  },
+  "CreatedObject": "0014A3:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

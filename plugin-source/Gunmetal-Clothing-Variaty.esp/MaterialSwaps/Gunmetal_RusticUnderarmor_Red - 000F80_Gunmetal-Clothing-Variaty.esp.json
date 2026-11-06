@@ -1,0 +1,10 @@
+{
+  "FormKey": "000F80:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RusticUnderarmor_Red",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RusticUnderArmor\\RusticUnderarmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RusticUnderArmor\\RusticUnderarmor_Red.BGSM"
+    }
+  ]
+}

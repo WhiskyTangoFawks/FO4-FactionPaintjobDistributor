@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000831:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Digital",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Digital Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Digital Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000804:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

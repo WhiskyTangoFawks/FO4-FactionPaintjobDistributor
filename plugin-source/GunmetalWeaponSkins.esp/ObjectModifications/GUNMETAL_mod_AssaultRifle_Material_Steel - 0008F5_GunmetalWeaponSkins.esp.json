@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0008F5:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_AssaultRifle_Material_Steel",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Steel"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Steel Metal Finish"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A30:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0008EF:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

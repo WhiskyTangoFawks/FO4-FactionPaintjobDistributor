@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000932:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_DoubleBarrel_Material_Green",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Green"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Green Painted"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A2F:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000926:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

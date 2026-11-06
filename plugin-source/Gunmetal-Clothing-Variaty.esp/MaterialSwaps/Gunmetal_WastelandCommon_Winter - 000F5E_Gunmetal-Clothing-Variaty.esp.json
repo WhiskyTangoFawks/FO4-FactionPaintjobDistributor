@@ -1,0 +1,10 @@
+{
+  "FormKey": "000F5E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_WastelandCommon_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\WastelandCommon\\WastelandCommon.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\WastelandCommon\\WastelandCommon_Winter.BGSM"
+    }
+  ]
+}

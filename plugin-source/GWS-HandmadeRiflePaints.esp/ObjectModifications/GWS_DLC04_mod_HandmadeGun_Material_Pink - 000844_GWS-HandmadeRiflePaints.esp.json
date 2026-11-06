@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000844:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_mod_HandmadeGun_Material_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "04D93A:DLCNukaWorld.esm",
+  "TargetOmodKeywords": [
+    "0008D7:GWS-HandmadeRiflePaints.esp"
+  ],
+  "LooseMod": "000882:GWS-HandmadeRiflePaints.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080F:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000830:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

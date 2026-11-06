@@ -1,0 +1,19 @@
+{
+  "FormKey": "000DCB:FactionPaintjobs.esp",
+  "EditorID": "LL_Armor_Power_Set_Template",
+  "FormVersion": 116,
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "000849:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Bathrobe_Red",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\HazmatSuit\\HazmatSuit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\HazmatSuit\\HazmatSuit_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Bathrobe\\Bathrobes.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Bathrobe\\Bathrobes_Red.BGSM"
+    }
+  ]
+}

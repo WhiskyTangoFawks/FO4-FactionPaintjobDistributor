@@ -1,0 +1,34 @@
+{
+  "FormKey": "001242:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Headgear_03_Multicam",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Raider02\\Raider02mask.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider02\\Raidermask_.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyHelmet_Multicam.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hats\\LongshoremansHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hats\\LongshoremansHat_.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hats\\WinterHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hats\\WinterHat_.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Mobsters\\glassesrims.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Mobsters\\glassesrims_.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\PoliceGlasses\\rims.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\PoliceGlasses\\rims_.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Visor\\visor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Visor\\visor_.BGSM"
+    }
+  ]
+}

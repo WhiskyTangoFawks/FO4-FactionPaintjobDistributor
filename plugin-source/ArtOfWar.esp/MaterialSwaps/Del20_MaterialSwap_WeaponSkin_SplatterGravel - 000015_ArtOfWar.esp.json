@@ -1,0 +1,562 @@
+{
+  "FormKey": "000015:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12548,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_SplatterGravel",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "MG\\249.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\249.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_10.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_10.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunScope01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserMuzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserMuzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunSilencer01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaser.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec1.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Rec1.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_09.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_09.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Irons.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Irons.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunBarrelShort01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifleScopeDielectric_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_02.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_02.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\SplatterGravel\\ShotgunStock_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRiflePortedBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\MissileLauncherMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmMag_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgunRecoilStock_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunBarrelLong01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\SplatterGravel\\44ReflexSight_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmWoodenGrips_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifleStock_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\SplatterGravel\\44Scope_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\SplatterGravel\\Drum_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "MG\\Buffer.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Buffer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_01.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifle_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunRear.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\MinigunRear.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\InstituteReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\Missile_Launcher_Muzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\Missile_Launcher_Muzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun3Barrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\Minigun3Barrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmCompensator_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\TGunDrum_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgunReflexSight_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserSuperBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunGunnerSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\MinigunGunnerSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmLongPortedBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_05.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_05.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Vent.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Vent.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\tgunbarrelfinned_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\ShotgunSuppressor_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_08.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_08.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\MissileLauncherScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\MissleLauncher.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\MissileLauncher.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Heat.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Heat.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\FlutedBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\EJP.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\EJP.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\SplatterGravel\\44_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\SplatterGravel\\44RubberGrip_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmSuppressor_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmPortedHeavyBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\FS.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\FS.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmHeavyBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_07.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_07.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunMeatgrinder.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\MinigunMeatgrinder.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunMagStraight01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgunSights_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\308andMags_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_04.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_04.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgun_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\MissileLauncherTrippleMag2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgunShroudedBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunReceiver01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MGGrips.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\LauncherReceiverLeather.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\LauncherReceiverLeather.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\SplatterGravel\\ShotgunReceiver_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\SplatterGravel\\Mags_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\SplatterGravel\\ShotgunBarrelLong_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Rec2.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\SplatterGravel\\45REC_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\Minigun.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\SplatterGravel\\DoubleBarrelMuzzleBreaks_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\SplatterGravel\\MinigunBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunReceiver01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MGScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunScope01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\TargetBox.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\TargetBox.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\TacticalStock_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\SplatterGravel\\MissileLauncherTrippleMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifleShortStock_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmReflexSight_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_03.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_03.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifleSilencer_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserSuperBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\tgunmuzzle1_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\JK.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\JK.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Mini.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Mini.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmBarrelLong_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserScreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserScreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmRubberGrips_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\RecParts.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\RecParts.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\TGunReceiver_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\TGunGrip1_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\SplatterGravel\\TGunBarrel_SplatterGravel.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_06.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\Laser_Gun_Set_06.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmLongBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\MGGreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\MGGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\SplatterGravel\\InstituteReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\HuntingRifleScope_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\SplatterGravel\\CombatShotgunReciever_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\308MuzzleBreak_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\SplatterGravel\\GatlingLaserSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\SplatterGravel\\44BullBarrel_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MachineGunMagDrum01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\SplatterGravel\\308andMags_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\SplatterGravel\\10mmPistol_SplatterGravel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\SplatterGravel\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\SplatterGravel\\MGBarrels.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Saw.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\SplatterGravel\\Saw.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

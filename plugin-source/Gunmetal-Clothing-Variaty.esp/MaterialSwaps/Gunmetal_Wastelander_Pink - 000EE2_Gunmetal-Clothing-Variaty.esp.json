@@ -1,0 +1,14 @@
+{
+  "FormKey": "000EE2:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Wastelander_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Wastelander\\OutfitF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Wastelander\\OutfitF_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Wastelander\\OutfitM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Wastelander\\OutfitM_Pink.BGSM"
+    }
+  ]
+}

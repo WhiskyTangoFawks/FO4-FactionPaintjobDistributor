@@ -1,0 +1,10 @@
+{
+  "FormKey": "001708:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "ap_color03_tertiary",
+  "Color": "#00FFFF00",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tertiary Color Swap"
+  }
+}

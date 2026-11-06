@@ -1,0 +1,24 @@
+{
+  "FormKey": "0012D0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider03_Digital",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Digital Camo Leather Coat"
+  },
+  "CreatedObject": "001082:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

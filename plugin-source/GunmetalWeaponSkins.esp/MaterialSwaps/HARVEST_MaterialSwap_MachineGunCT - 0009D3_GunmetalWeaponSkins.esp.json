@@ -1,0 +1,51 @@
+{
+  "FormKey": "0009D3:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_MaterialSwap_MachineGunCT",
+  "FormVersion": 122,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunBarrelLong01CT.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunBarrelShort01CT.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\MachineGun\\MachineGunMagDrum01CT.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunMagStraight01CT.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunReceiver01CT.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunReceiver01DielectricCT.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\MachineGun\\MachineGunScope01Dark.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "HARVEST\\weapons\\MachineGun\\MachineGunScope01DielectricDark.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MachineGunSilencerDark.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MGBarrelsCT.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\MachineGun\\MGScopeDark.BGSM"
+    }
+  ]
+}

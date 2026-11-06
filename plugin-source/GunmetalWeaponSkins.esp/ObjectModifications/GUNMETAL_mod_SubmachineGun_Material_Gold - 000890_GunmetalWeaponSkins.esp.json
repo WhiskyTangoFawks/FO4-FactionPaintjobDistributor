@@ -1,0 +1,32 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000890:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_SubmachineGun_Material_Gold",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gold Shroud"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Elite Golden Shroud"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A32:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000893:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    }
+  ]
+}

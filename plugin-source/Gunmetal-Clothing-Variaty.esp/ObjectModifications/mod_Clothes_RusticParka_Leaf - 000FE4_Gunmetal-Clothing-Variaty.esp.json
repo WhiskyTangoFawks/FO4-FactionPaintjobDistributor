@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000FE4:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RusticParka_Leaf",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo Winter Jacket"
+  },
+  "AttachPoint": "0016E7:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174C:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000FD9:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

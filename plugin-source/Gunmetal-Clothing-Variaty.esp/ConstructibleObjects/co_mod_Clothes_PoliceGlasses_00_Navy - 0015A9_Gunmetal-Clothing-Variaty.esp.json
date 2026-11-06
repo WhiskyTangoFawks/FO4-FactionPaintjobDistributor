@@ -1,0 +1,20 @@
+{
+  "FormKey": "0015A9:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_PoliceGlasses_00_Navy",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Patrolman Glasses"
+  },
+  "CreatedObject": "001599:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

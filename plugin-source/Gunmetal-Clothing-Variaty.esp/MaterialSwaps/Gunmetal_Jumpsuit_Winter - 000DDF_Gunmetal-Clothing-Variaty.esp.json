@@ -1,0 +1,10 @@
+{
+  "FormKey": "000DDF:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Jumpsuit_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\RedRocketJumpsuit\\RRJumpsuit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\RedRocketJumpsuit\\GenericJumpsuit_Winter.BGSM"
+    }
+  ]
+}

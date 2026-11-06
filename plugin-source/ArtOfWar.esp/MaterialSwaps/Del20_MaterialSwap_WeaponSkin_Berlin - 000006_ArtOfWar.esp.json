@@ -1,0 +1,562 @@
+{
+  "FormKey": "000006:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12548,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Berlin",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "MG\\249.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\249.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_10.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_10.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunScope01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserMuzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserMuzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunSilencer01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaser.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec1.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Rec1.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_09.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_09.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Irons.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Irons.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunBarrelShort01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifleScopeDielectric_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_02.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_02.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Berlin\\ShotgunStock_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRiflePortedBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\MissileLauncherMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmMag_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgunRecoilStock_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunBarrelLong01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Berlin\\44ReflexSight_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmWoodenGrips_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifleStock_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Berlin\\44Scope_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Berlin\\Drum_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "MG\\Buffer.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Buffer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_01.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifle_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunRear.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\MinigunRear.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\InstituteReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\Missile_Launcher_Muzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\Missile_Launcher_Muzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun3Barrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\Minigun3Barrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmCompensator_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\TGunDrum_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgunReflexSight_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserSuperBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunGunnerSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\MinigunGunnerSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmLongPortedBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_05.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_05.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Vent.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Vent.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\tgunbarrelfinned_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\ShotgunSuppressor_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_08.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_08.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\MissileLauncherScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\MissleLauncher.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\MissileLauncher.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Heat.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Heat.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\FlutedBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\EJP.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\EJP.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Berlin\\44_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Berlin\\44RubberGrip_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmSuppressor_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmPortedHeavyBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\FS.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\FS.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmHeavyBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_07.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_07.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunMeatgrinder.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\MinigunMeatgrinder.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunMagStraight01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgunSights_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\308andMags_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_04.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_04.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgun_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\MissileLauncherTrippleMag2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgunShroudedBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunReceiver01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MGGrips.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\LauncherReceiverLeather.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\LauncherReceiverLeather.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Berlin\\ShotgunReceiver_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Berlin\\Mags_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Berlin\\ShotgunBarrelLong_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Rec2.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Berlin\\45REC_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\Minigun.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Berlin\\DoubleBarrelMuzzleBreaks_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Berlin\\MinigunBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunReceiver01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MGScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunScope01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\TargetBox.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\TargetBox.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\TacticalStock_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Berlin\\MissileLauncherTrippleMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifleShortStock_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmReflexSight_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_03.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_03.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifleSilencer_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserSuperBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\tgunmuzzle1_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\JK.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\JK.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Mini.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Mini.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmBarrelLong_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserScreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserScreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmRubberGrips_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\RecParts.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\RecParts.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\TGunReceiver_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\TGunGrip1_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Berlin\\TGunBarrel_Berlin.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_06.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\Laser_Gun_Set_06.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmLongBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\MGGreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\MGGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Berlin\\InstituteReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\HuntingRifleScope_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Berlin\\CombatShotgunReciever_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\308MuzzleBreak_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Berlin\\GatlingLaserSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Berlin\\44BullBarrel_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MachineGunMagDrum01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Berlin\\308andMags_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Berlin\\10mmPistol_Berlin.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Berlin\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Berlin\\MGBarrels.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Saw.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Berlin\\Saw.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

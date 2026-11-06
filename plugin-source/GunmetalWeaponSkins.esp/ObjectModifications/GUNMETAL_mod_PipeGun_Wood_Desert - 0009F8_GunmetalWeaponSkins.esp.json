@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0009F8:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Wood_Desert",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Desert Tan"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Spec Desert Tan Painted"
+  },
+  "AttachPoint": "00083B:GunmetalWeaponSkins.esp",
+  "TargetOmodKeywords": [
+    "00083C:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009F1:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

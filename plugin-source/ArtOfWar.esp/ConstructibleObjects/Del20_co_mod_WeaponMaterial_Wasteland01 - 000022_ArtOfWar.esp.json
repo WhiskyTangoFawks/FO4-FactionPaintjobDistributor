@@ -1,0 +1,59 @@
+{
+  "FormKey": "000022:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_Wasteland01",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0B9882:Fallout4.esm",
+        "ParameterOneNumber": 759938
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DB:Fallout4.esm",
+        "ParameterOneNumber": 303323
+      }
+    }
+  ],
+  "CreatedObject": "00001C:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

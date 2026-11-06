@@ -1,0 +1,23 @@
+{
+  "FormKey": "000801:RaiderArmorPaintsRedux.esp",
+  "EditorID": "RaiderArmorPaint_Brown",
+  "FormVersion": 60,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_arms.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_arms_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_legs.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_legs_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_torsos.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_torsos_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Armor.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderModArmor\\Armor_Brown.BGSM"
+    }
+  ]
+}

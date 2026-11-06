@@ -1,0 +1,58 @@
+{
+  "FormKey": "000030:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_Anchorage01",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "140D98:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04D89B:Fallout4.esm",
+        "ParameterOneNumber": 317595
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0DB:Fallout4.esm",
+        "ParameterOneNumber": 303323
+      }
+    }
+  ],
+  "CreatedObject": "00002F:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

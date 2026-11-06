@@ -1,0 +1,11 @@
+{
+  "FormKey": "000002:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "WoodFinishEbony",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC03\\Weapons\\4570LeverAction\\4570LeverActionStock.BGSM",
+      "ReplacementMaterial": "Lever_Wood\\Ebony.BGSM"
+    }
+  ]
+}

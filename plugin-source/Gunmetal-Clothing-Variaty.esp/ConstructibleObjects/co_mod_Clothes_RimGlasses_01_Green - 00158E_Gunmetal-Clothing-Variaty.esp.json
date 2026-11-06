@@ -1,0 +1,20 @@
+{
+  "FormKey": "00158E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RimGlasses_01_Green",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Rimmed Glasses"
+  },
+  "CreatedObject": "00157E:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

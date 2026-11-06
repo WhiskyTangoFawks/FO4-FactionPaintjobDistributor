@@ -1,0 +1,10 @@
+{
+  "FormKey": "0016E7:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "ap_color02_secondary",
+  "Color": "#00FFFFFF",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Secondary Color Swap"
+  }
+}

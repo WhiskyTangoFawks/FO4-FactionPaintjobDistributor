@@ -1,0 +1,70 @@
+{
+  "FormKey": "00132E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_UniqueOutfits_00_Tan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Kellogg\\Kellogg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Kellogg\\Kellogg_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MacCready\\Outfit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MacCready\\Outfit_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonBody1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonBody_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonHat1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonHat_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Cait\\Cait.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Cait\\Cait_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat2Sided_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Desdemona\\DesdemonaBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Desdemona\\DesdemonaBody_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hancock\\HancockBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hancock\\HancockBody_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hancock\\HancockBody2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hancock\\HancockBody2Sided_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF_alpha.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyM_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\FancyGlasses.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\FancyGlasses_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SequinDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SlinkyDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Tan.BGSM"
+    }
+  ]
+}

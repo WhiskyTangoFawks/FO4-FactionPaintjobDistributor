@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000FF6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_KnightUnderarmor_LightGray",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray BOS Underarmor"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174B:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000FF0:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

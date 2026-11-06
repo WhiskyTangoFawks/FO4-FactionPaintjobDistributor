@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "00000A:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Fall_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rust Belt Camouflage"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pre-War fall ERDL woodland camouflage. Ideal for the nuclear autumn environments of the East Coast and Midwest."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "24A0D7:Fallout4.esm"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000005:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

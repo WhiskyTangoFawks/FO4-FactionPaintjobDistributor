@@ -1,0 +1,10 @@
+{
+  "FormKey": "000CCF:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_HighschoolOutfit_Yellow",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\HighschoolOutfit\\PrewarUnderarmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\HighschoolOutfit\\PrewarUnderarmor_Yellow.BGSM"
+    }
+  ]
+}

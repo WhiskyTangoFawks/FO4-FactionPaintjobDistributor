@@ -1,0 +1,14 @@
+{
+  "FormKey": "000C88:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Wastelander_Gray",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Wastelander\\OutfitF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Wastelander\\OutfitF_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Wastelander\\OutfitM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Wastelander\\OutfitM_Gray.BGSM"
+    }
+  ]
+}

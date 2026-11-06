@@ -1,0 +1,14 @@
+{
+  "FormKey": "00084B:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Bathrobe_VaultTec",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\HazmatSuit\\HazmatSuit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\HazmatSuit\\HazmatSuit_VaultTec.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Bathrobe\\Bathrobes.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Bathrobe\\Bathrobes_VaultTec.BGSM"
+    }
+  ]
+}

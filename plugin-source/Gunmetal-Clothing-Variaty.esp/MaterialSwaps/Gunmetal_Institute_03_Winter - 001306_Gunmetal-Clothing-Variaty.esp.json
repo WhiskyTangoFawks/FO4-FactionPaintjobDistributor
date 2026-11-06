@@ -1,0 +1,10 @@
+{
+  "FormKey": "001306:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Institute_03_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\SynthUniform\\SynthUniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SynthUniform\\SynthUniform_Winter.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0000DA:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_Weapon_Material_Default_NoCC",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "No Material"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00006A:ArtOfWar.esp"
+  ]
+}

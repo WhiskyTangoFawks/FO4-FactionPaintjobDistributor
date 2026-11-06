@@ -1,0 +1,138 @@
+{
+  "FormKey": "00003A:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12523,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Ornamental",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Ornamental\\ShotgunStock_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifleScopeDielectric_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Ornamental\\ShotgunBarrelLong_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRiflePortedBarrel_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgunReflexSight_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Ornamental\\DoubleBarrelMuzzleBreaks_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Ornamental\\Drum_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifleScope_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\FlutedBarrel_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgunReciever_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Ornamental\\45REC_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifleSilencer_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgunRecoilStock_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifleShortStock_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\308andMags_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Ornamental\\44ReflexSight_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Ornamental\\ShotgunReceiver_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgunSights_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Ornamental\\44_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\TacticalStock_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifle_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Ornamental\\44BullBarrel_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Ornamental\\44RubberGrip_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\308MuzzleBreak_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\ShotgunSuppressor_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\308andMags_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Ornamental\\HuntingRifleStock_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Ornamental\\Mags_Ornamental.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgunShroudedBarrel_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Ornamental\\CombatShotgun_Ornamental.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Ornamental\\44Scope_Ornamental.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

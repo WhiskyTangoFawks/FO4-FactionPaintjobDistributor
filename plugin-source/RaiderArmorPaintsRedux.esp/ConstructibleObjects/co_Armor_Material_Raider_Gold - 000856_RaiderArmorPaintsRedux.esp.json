@@ -1,0 +1,25 @@
+{
+  "FormKey": "000856:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Gold",
+  "Components": [
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gold"
+  },
+  "CreatedObject": "00083A:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 75
+    }
+  ]
+}

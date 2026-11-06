@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000835:RoboArmorPaints.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_RoboArmorPaints_Any",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "000832:RoboArmorPaints.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000833:RoboArmorPaints.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000834:RoboArmorPaints.esp",
+      "MinimumLevel": 20,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

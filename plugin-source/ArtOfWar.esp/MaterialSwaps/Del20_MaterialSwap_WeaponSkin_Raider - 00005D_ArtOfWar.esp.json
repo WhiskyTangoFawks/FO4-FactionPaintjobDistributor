@@ -1,0 +1,562 @@
+{
+  "FormKey": "00005D:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12548,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Raider",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "MG\\249.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\249.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_10.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_10.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunScope01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserFocuserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserMuzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserMuzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunSilencer01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunSilencer01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaser.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec1.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Rec1.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_09.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_09.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\AssaultBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Irons.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Irons.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\MicroFusionReceiver.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelShort01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunBarrelShort01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifleScopeDielectric_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_02.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_02.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Raider\\ShotgunStock_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRiflePortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRiflePortedBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\MissileLauncherMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmMag_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgunRecoilStock_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunBarrelLong01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunBarrelLong01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44ReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Raider\\44ReflexSight_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmWoodenGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmWoodenGrips_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\AssaultBarrel\\AssaultBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\AssaultBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifleStock_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifierDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserMagnifierDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44Scope.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Raider\\44Scope_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MicroFusionReceiverDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\MicroFusionReceiverDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Drum.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Raider\\Drum_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "MG\\Buffer.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Buffer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_01.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifle_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunRear.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\MinigunRear.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\InstituteReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\Missile_Launcher_Muzzle.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\Missile_Launcher_Muzzle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserRifleGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun3Barrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\Minigun3Barrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmCompensator_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\RecoilStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunDrum.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\TGunDrum_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgunReflexSight_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserSuperBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunGunnerSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\MinigunGunnerSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmLongPortedBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_05.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_05.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Vent.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Vent.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrelDialectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserRifleBarrelDialectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunbarrelfinned.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\tgunbarrelfinned_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\ShotgunSuppressor_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_08.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_08.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\MissileLauncherScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\MissleLauncher.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\MissileLauncher.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Heat.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Heat.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\HeavyBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\PistolBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\FlutedBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolBarrel\\PistolBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\PistolBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\EJP.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\EJP.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\LaserRifleBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserRifleBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Raider\\44_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44RubberGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Raider\\44RubberGrip_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmSuppressor_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmPortedHeavyBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\FS.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\FS.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmHeavyBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_07.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_07.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunMeatgrinder.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\MinigunMeatgrinder.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagStraight01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunMagStraight01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotGun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgunSights_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\308andMags_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Magnifier\\LaserMagnifier.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserMagnifier.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_04.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_04.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgun_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\MissileLauncherTrippleMag2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgunShroudedBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunReceiver01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MGGrips.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\LauncherReceiverLeather.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\LauncherReceiverLeather.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Raider\\ShotgunReceiver_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\Mags.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Raider\\Mags_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Raider\\ShotgunBarrelLong_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Irons\\FrontSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\FrontSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Rec2.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Rec2.BGSM"
+    },
+    {
+      "OriginalMaterial": "DAKCR\\45REC.bgsm",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\DakReplacer\\Raider\\45REC_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\Minigun.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\Minigun.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Raider\\DoubleBarrelMuzzleBreaks_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Minigun\\MinigunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\Minigun\\Raider\\MinigunBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunReceiver01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunReceiver01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MGScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunScope01Dielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunScope01Dielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\ReflexSight\\LaserReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissleLauncher\\TargetBox.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\TargetBox.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\TacticalStock_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MissileLauncher\\MissileLauncherTrippleMag.BGSM",
+      "ReplacementMaterial": "Camouflage\\MissileLauncher\\Raider\\MissileLauncherTrippleMag.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifleShortStock_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmReflexSight_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_03.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_03.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifleSilencer_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSuperBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserSuperBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\combatshotgun\\tgunmuzzle1.bgsm",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\tgunmuzzle1_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\HeavyBarrel\\HeavyBarrelDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\HeavyBarrelDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\JK.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\JK.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\MarksmanStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\RecoilStock\\RecoilStock.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\RecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Mini.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Mini.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmBarrelLong.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmBarrelLong_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserScreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserScreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\PistolGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Diffuser\\LaserDiffuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserDiffuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmRubberGrips.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmRubberGrips_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\RecParts.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\RecParts.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunReceiver.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\TGunReceiver_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunGrip1.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\TGunGrip1_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\TGunBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\SMG\\Raider\\TGunBarrel_Raider.bgsm"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\Laser_Gun_Set_06.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\Laser_Gun_Set_06.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmLongBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\MGGreen.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\MGGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Institute\\InstituteReflexSightDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserInstitute\\Raider\\InstituteReflexSightDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\HuntingRifleScope_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "Camouflage\\CombatShotgun\\Raider\\CombatShotgunReciever_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Focuser\\LaserFocuser.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserFocuser.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\TacticalGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\308MuzzleBreak_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\GatlingLaser\\GatlingLaserSight.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGatling\\Raider\\GatlingLaserSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\PIstolGripDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\PIstolGripDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\44\\44BullBarrel.BGSM",
+      "ReplacementMaterial": "Camouflage\\44\\Raider\\44BullBarrel_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScope.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\MarksmanStock\\MarksmanStockDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\MarksmanStockDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MachineGunMagDrum01.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MachineGunMagDrum01.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags.BGSM",
+      "ReplacementMaterial": "Camouflage\\HuntingRifle\\Raider\\308andMags_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\10mmpistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "Camouflage\\10mm\\Raider\\10mmPistol_Raider.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\Scope\\LaserScopeDielectric.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\LaserScopeDielectric.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\LaserWeapons\\PistolGrip\\TacticalGrip.BGSM",
+      "ReplacementMaterial": "Camouflage\\LaserGun\\Raider\\TacticalGrip.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\MachineGun\\MGBarrels.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\Raider\\MGBarrels.BGSM"
+    },
+    {
+      "OriginalMaterial": "MG\\Saw.BGSM",
+      "ReplacementMaterial": "Camouflage\\MachineGun\\DakReplacer\\Raider\\Saw.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

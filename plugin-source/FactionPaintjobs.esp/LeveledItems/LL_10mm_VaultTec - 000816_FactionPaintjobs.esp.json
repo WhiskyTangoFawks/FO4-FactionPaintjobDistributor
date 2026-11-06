@@ -1,0 +1,19 @@
+{
+  "FormKey": "000816:FactionPaintjobs.esp",
+  "EditorID": "LL_10mm_VaultTec",
+  "FormVersion": 130,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "043225:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

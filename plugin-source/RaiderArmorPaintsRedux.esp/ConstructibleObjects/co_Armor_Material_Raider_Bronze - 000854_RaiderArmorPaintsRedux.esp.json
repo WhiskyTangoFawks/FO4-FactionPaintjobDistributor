@@ -1,0 +1,25 @@
+{
+  "FormKey": "000854:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Bronze",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Bronze"
+  },
+  "CreatedObject": "000838:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 75
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000060:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_TigerRed_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Urban Tiger Camouflage"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Brick-and-mortar variant of the popular Tiger Stripe design. Primarily used in urban warfare by the USAF during the mainland invasion of China."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "24A0D7:Fallout4.esm"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00005A:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

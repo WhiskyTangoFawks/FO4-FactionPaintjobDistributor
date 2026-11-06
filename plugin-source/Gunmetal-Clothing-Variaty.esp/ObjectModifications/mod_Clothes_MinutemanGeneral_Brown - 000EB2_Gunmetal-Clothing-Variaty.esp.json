@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000EB2:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_MinutemanGeneral_Brown",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Brown"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Brown Minuteman General Outfit"
+  },
+  "AttachPoint": "0016E7:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001753:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00082E:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

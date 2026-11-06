@@ -1,0 +1,32 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000949:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_Deliverer_Material_Gold",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gold"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gold Metal Finish"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A35:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000946:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

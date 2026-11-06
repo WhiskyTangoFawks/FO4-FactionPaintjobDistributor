@@ -1,0 +1,34 @@
+{
+  "FormKey": "000811:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_MS_HandmadeGun_Steel",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMAR.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMAR_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HmarBarrelLight.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HmarBarrelLight_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARReceiverCovers.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARReceiverCovers_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARSniperBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARSniperBarrel_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARStockFolding.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARStockFolding_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\HMARWeldedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\HMARWeldedBarrel_Steel.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC04\\Weapons\\HandmadeAssaultRifle\\ShovelStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\DLC04\\Weapons\\HandmadeAssaultRifle\\ShovelStock_Steel.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081D:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Default",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": " No Paint"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ]
+}

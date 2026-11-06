@@ -1,0 +1,50 @@
+{
+  "FormKey": "00085D:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_10mmPolished",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmCompensator.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmCompensatorPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmHeavyBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmHeavyBarrelPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmLongBarrelPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmLongPortedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmLongPortedBarrelPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Black\\10mmMagBlack.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPistol.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmPistolPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmPortedHeavyBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmPortedHeavyBarrelPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmReflexSightPolished.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\10mmPistol\\10mmSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\10mmPistol\\Polished\\10mmSuppressorPolished.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

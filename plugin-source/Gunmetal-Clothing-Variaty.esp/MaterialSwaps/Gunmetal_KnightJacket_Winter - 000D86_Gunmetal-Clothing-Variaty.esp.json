@@ -1,0 +1,10 @@
+{
+  "FormKey": "000D86:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_KnightJacket_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\KnightLancer\\Outfit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\KnightLancer\\Outfit_Winter.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000855:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_mod_HandmadeGun_Material_Sky",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Sky"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "04D93A:DLCNukaWorld.esm",
+  "TargetOmodKeywords": [
+    "0008D7:GWS-HandmadeRiflePaints.esp"
+  ],
+  "LooseMod": "0008A2:GWS-HandmadeRiflePaints.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00081C:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000826:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

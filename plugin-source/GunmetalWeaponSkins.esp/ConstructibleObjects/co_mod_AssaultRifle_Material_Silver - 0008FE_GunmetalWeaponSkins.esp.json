@@ -1,0 +1,28 @@
+{
+  "FormKey": "0008FE:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_AssaultRifle_Material_Silver",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0008F7:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

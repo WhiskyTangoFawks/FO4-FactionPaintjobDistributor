@@ -1,0 +1,10 @@
+{
+  "FormKey": "001718:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "ap_color04_quaternary",
+  "Color": "#00FFFF00",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "quaternary Color Swap"
+  }
+}

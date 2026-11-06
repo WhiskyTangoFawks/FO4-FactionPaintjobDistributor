@@ -1,0 +1,20 @@
+{
+  "FormKey": "0011A6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_ArmyHelmet_00_Gray_Dirty",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gray Clean Army Helmet"
+  },
+  "CreatedObject": "001196:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "FormKey": "000817:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_PipeGunmetal",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\45\\45Receiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\45\\45ReceiverGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrelPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelPortedGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGripGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGripGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStockGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PipeStock\\PipeStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PipeStock\\PipeStockGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PistolGrip\\PistolGripGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\SpringStock\\Springstock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\SpringStock\\SpringstockGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressorGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\45PipeRifleMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\45PipeRifleMagGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\FlutedBarrelGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifle.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPortedGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMagGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleIronSights.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleIronSightsGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaks.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaksGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSightGunmetal.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScopeGunmetal.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

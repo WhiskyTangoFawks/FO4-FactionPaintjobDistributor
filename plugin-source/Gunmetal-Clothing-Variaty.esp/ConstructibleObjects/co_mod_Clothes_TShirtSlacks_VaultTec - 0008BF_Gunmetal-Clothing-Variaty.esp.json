@@ -1,0 +1,24 @@
+{
+  "FormKey": "0008BF:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_TShirtSlacks_VaultTec",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Vault Tec T Shirt with Slacks"
+  },
+  "CreatedObject": "0008B5:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

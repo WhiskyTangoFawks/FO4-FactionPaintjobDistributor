@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082A:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Hunter",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hunter Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Hunter Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000811:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "FormKey": "001571:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Visor_01_Pink",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Faded Visor"
+  },
+  "CreatedObject": "001561:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

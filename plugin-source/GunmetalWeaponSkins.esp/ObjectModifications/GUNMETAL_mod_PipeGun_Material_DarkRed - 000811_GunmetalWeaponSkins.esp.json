@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000811:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Material_DarkRed",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dark Red"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dark Red Paint"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000822:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00081A:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

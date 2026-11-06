@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0008D4:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_CombatGun_Material_Dark",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Dark "
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dark Metal"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "0008BE:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0008D0:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

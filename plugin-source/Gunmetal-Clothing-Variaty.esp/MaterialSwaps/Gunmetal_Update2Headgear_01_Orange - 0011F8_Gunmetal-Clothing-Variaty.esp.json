@@ -1,0 +1,46 @@
+{
+  "FormKey": "0011F8:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Headgear_01_Orange",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\GasMask\\GasMask.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\GasMask\\GasMask_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Hood.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Hood_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider02\\Raider02mask.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider02\\Raider02mask_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider03\\Raider03Helmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider03\\Raider03Helmet_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyHelmet_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hats\\LongshoremansHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hats\\LongshoremansHat_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hats\\WinterHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hats\\WinterHat_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Mobsters\\glassrims.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Mobsters\\glassrims_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\PoliceGlasses\\rims.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\PoliceGlasses\\rims_Orange.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Visor\\visor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Visor\\visor_Orange.BGSM"
+    }
+  ]
+}

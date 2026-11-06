@@ -1,0 +1,25 @@
+{
+  "FormKey": "000048:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_PaintChip01",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000047:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

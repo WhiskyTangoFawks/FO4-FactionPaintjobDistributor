@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0009C2:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_AssaultRifle_Material_White",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "White"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Military Spec White Painted"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A30:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009CD:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

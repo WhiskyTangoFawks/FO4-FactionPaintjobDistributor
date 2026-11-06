@@ -1,0 +1,36 @@
+{
+  "FormKey": "000817:RoboArmorPaints.esp",
+  "EditorID": "RoboArmorPaint_Woodland",
+  "FormVersion": 112,
+  "TreeFolder": "SetDressing",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorArmL.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorArmL_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorArmR.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorArmR_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorAssaultronHelm.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorAssaultronHelm_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorLegL.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorLegL_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorLegR.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorLegR_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboArmorTorso.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboArmorTorso_Woodland.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC01\\Armor\\RoboArmor\\RoboSentryHelmet.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RoboArmor\\RoboSentryHelmet_Woodland.BGSM"
+    }
+  ]
+}

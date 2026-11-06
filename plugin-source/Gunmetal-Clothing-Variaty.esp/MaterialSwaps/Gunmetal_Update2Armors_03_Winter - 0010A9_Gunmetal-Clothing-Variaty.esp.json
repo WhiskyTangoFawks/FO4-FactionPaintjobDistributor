@@ -1,0 +1,30 @@
+{
+  "FormKey": "0010A9:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_03_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\ArmoredCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\ArmoredCoat_Winter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Winter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Winter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor_Winter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided_Winter.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Ronnie\\uniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Ronnie\\uniform_Winter.BGSM"
+    }
+  ]
+}

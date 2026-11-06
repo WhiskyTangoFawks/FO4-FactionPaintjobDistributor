@@ -1,0 +1,24 @@
+{
+  "FormKey": "000FBF:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RusticUnderarmor_Green",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Flannel Green Shirt and Jeans"
+  },
+  "CreatedObject": "000F8C:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

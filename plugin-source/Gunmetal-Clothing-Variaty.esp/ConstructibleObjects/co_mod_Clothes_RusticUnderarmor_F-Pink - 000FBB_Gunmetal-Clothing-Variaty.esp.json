@@ -1,0 +1,24 @@
+{
+  "FormKey": "000FBB:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RusticUnderarmor_F-Pink",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Plaid Pink Shirt and Jeans"
+  },
+  "CreatedObject": "000AD5:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "000E19:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Longshoreman_Yellow",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes/Longshoreman/hat.bgsm",
+      "ReplacementMaterial": "HARVEST/Clothes/Longshoreman/hat_Yellow.bgsm"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Longshoreman\\Longshoreman.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Longshoreman\\Longshoreman_Yellow.BGSM"
+    }
+  ]
+}

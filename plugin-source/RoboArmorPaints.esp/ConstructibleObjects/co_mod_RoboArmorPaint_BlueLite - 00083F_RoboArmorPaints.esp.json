@@ -1,0 +1,24 @@
+{
+  "FormKey": "00083F:RoboArmorPaints.esp",
+  "EditorID": "co_mod_RoboArmorPaint_BlueLite",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "CreatedObject": "000821:RoboArmorPaints.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

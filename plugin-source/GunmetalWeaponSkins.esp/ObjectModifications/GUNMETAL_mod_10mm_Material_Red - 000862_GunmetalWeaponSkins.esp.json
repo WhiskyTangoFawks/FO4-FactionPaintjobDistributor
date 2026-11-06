@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000862:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_10mm_Material_Red",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Red"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Red Painted"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A34:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000860:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

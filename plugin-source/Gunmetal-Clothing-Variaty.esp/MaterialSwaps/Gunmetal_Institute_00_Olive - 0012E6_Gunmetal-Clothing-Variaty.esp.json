@@ -1,0 +1,14 @@
+{
+  "FormKey": "0012E6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Institute_00_Olive",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Father\\Labcoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Father\\Labcoat_Green.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SynthUniform\\SynthUniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SynthUniform\\SynthUniform_Olive.BGSM"
+    }
+  ]
+}

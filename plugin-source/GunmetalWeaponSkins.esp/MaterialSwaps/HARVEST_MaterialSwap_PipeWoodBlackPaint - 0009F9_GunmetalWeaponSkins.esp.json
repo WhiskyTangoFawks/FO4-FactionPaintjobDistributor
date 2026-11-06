@@ -1,0 +1,18 @@
+{
+  "FormKey": "0009F9:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_PipeWoodBlackPaint",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleWood.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Wood\\PipeRifleWoodBlackPaint.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

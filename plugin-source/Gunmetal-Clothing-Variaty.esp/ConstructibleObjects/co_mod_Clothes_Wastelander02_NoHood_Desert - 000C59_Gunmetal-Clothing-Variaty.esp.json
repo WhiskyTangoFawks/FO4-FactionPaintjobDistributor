@@ -1,0 +1,24 @@
+{
+  "FormKey": "000C59:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Wastelander02_NoHood_Desert",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Tan"
+  },
+  "CreatedObject": "000C3D:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

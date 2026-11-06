@@ -1,0 +1,30 @@
+{
+  "FormKey": "001096:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_00_Gray",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\ArmoredCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\ArmoredCoat_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided_Gray.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Ronnie\\uniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Ronnie\\uniform_Gray.BGSM"
+    }
+  ]
+}

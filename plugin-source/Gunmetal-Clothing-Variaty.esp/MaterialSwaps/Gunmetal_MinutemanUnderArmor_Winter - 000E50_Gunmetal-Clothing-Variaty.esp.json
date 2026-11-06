@@ -1,0 +1,10 @@
+{
+  "FormKey": "000E50:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_MinutemanUnderArmor_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanUnderArmor_Winter.BGSM"
+    }
+  ]
+}

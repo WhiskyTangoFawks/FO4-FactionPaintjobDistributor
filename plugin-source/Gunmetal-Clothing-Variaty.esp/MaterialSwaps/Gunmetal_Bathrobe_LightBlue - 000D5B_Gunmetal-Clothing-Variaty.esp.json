@@ -1,0 +1,14 @@
+{
+  "FormKey": "000D5B:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Bathrobe_LightBlue",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\HazmatSuit\\HazmatSuit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\HazmatSuit\\HazmatSuit_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Bathrobe\\Bathrobes.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Bathrobe\\Bathrobes_LightBlue.BGSM"
+    }
+  ]
+}

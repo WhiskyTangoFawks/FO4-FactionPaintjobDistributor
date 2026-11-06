@@ -1,0 +1,25 @@
+{
+  "FormKey": "000014:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "WoodFinish_co_mod_LeverGun_Finish_Birch",
+  "Components": [
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00000F:LeverActionWoodFinish.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

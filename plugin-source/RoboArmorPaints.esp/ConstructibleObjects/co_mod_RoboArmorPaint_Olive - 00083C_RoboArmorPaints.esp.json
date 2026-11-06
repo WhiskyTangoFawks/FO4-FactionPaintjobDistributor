@@ -1,0 +1,24 @@
+{
+  "FormKey": "00083C:RoboArmorPaints.esp",
+  "EditorID": "co_mod_RoboArmorPaint_Olive",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "CreatedObject": "00081E:RoboArmorPaints.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

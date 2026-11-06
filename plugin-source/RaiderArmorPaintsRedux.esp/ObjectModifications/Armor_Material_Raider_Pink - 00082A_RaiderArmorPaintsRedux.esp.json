@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082A:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 90,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080F:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

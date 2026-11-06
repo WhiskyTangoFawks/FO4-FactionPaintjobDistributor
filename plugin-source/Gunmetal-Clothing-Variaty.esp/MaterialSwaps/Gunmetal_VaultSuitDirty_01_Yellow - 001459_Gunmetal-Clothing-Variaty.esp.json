@@ -1,0 +1,14 @@
+{
+  "FormKey": "001459:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_VaultSuitDirty_01_Yellow",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\vaultSuit\\VaultSuitDirtyF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\vaultSuit\\VaultSuitDirtyF_Yellow.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\vaultSuit\\VaultSuitDirtyM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\vaultSuit\\VaultSuitDirtyM_Yellow.BGSM"
+    }
+  ]
+}

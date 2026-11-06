@@ -1,0 +1,10 @@
+{
+  "FormKey": "000A2D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Raider01Suit_BlueTape",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Body.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Body_BlueTape.BGSM"
+    }
+  ]
+}

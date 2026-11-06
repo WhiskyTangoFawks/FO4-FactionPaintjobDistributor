@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000095:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Industrial_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Industrial Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gritty and industrial alternative to the sleeker commercial AER frames."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FA4:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000085:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

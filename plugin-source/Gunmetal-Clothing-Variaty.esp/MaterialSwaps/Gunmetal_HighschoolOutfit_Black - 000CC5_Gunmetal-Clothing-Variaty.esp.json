@@ -1,0 +1,10 @@
+{
+  "FormKey": "000CC5:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_HighschoolOutfit_Black",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\HighschoolOutfit\\PrewarUnderarmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\HighschoolOutfit\\PrewarUnderarmor_Black.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "FormKey": "00080F:RaiderArmorPaintsRedux.esp",
+  "EditorID": "RaiderArmorPaint_Pink",
+  "FormVersion": 60,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_arms.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_arms_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_legs.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_legs_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_torsos.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_torsos_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Armor.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderModArmor\\Armor_Pink.BGSM"
+    }
+  ]
+}

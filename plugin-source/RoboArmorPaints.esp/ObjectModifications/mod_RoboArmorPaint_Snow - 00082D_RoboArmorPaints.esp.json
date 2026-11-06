@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082D:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Snow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000814:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

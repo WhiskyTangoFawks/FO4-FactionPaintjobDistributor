@@ -1,0 +1,28 @@
+{
+  "FormKey": "000895:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_SubMachineGun_Material_Bronze",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00088E:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

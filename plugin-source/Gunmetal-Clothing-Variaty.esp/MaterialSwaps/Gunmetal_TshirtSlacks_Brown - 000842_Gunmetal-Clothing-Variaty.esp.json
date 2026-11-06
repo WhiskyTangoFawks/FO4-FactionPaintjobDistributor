@@ -1,0 +1,14 @@
+{
+  "FormKey": "000842:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_TshirtSlacks_Brown",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\TShirtSlacks\\TShirtSlacks.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\TShirtSlacks\\TShirtSlacks_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\TShirtSlacks\\TShirtSlacksPrewar.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\TShirtSlacks\\TShirtSlacks_Brown.BGSM"
+    }
+  ]
+}

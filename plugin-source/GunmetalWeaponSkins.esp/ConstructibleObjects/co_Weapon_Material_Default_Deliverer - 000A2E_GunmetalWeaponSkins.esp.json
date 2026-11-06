@@ -1,0 +1,14 @@
+{
+  "FormKey": "000A2E:GunmetalWeaponSkins.esp",
+  "EditorID": "co_Weapon_Material_Default_Deliverer",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000A2D:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

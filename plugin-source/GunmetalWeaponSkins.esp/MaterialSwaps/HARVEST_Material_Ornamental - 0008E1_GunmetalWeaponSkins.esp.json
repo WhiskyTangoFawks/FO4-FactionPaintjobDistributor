@@ -1,0 +1,87 @@
+{
+  "FormKey": "0008E1:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_Material_Ornamental",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgun.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgun.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReciever.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgunReciever.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunRecoilStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgunRecoilStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgunReflexSight.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunShroudedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgunShroudedBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\CombatShotgunSights.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexCombatShotgunSights.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CombatShotgun\\ShotgunSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexShotgunSuppressor.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308andMags2.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retex308andMags2.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\308MuzzleBreak.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retex308MuzzleBreak.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexFlutedBarrel.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifle.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexHuntingRifle.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexHuntingRifleScope.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleShortStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexHuntingRifleShortStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleSilencer.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexHuntingRifleSilencer.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\HuntingRifleStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexHuntingRifleStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\HuntingRifle\\TacticalStock\\TacticalStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexTacticalStock.BGSM"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexDoubleBarrelMuzzleBreaks.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexShotgunBarrelLong.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexShotgunReceiver.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Ornamental\\retexShotgunStock.bgsm"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "000C6C:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_ChildrenOfAtom_Red",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\ChildrenOfAtom\\ChildrenOfAtom1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\ChildrenOfAtom\\ChildrenOfAtom_Red.BGSM"
+    }
+  ]
+}

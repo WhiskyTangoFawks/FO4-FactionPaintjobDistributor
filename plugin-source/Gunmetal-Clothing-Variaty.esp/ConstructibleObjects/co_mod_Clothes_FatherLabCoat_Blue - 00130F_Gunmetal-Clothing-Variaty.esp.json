@@ -1,0 +1,24 @@
+{
+  "FormKey": "00130F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_FatherLabCoat_Blue",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Blue Father's Labcoat"
+  },
+  "CreatedObject": "001308:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

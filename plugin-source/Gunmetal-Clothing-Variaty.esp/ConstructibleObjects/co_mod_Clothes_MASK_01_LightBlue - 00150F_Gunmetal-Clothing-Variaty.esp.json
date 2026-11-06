@@ -1,0 +1,20 @@
+{
+  "FormKey": "00150F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_MASK_01_LightBlue",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Surgical Mask"
+  },
+  "CreatedObject": "0014FF:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

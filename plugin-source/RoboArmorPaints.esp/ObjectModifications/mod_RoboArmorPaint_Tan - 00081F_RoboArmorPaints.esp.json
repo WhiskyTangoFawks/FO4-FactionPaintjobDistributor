@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081F:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Tan",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tan"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Tan"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000806:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

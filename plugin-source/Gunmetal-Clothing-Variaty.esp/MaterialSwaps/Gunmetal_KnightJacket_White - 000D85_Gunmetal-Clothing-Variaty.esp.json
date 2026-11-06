@@ -1,0 +1,14 @@
+{
+  "FormKey": "000D85:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_KnightJacket_White",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\KnightLancer\\Outfit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\KnightLancer\\Outfit_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\GreaserJacket\\GreaserJacket.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\GreaserJacket\\GreaserJacket_White.BGSM"
+    }
+  ]
+}

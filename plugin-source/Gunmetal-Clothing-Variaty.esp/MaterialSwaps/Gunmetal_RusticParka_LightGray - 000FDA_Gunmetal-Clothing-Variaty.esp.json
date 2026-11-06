@@ -1,0 +1,10 @@
+{
+  "FormKey": "000FDA:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RusticParka_LightGray",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RusticUnderArmor\\RusticParka.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RusticUnderArmor\\RusticParka_LightGray.BGSM"
+    }
+  ]
+}

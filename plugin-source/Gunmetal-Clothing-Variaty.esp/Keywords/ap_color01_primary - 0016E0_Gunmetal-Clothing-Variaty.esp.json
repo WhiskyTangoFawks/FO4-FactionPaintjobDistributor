@@ -1,0 +1,10 @@
+{
+  "FormKey": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "ap_color01_primary",
+  "Color": "#00FFFF00",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Primary Color Swap"
+  }
+}

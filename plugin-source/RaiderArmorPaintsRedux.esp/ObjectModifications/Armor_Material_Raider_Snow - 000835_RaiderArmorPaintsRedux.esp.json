@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000835:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Snow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Snow Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000811:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

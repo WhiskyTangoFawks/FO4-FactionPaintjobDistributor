@@ -1,0 +1,24 @@
+{
+  "FormKey": "00084C:RoboArmorPaints.esp",
+  "EditorID": "co_mod_RoboArmorPaint_Urban",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Urban Digital"
+  },
+  "CreatedObject": "00082E:RoboArmorPaints.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

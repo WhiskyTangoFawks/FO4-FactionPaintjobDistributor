@@ -1,0 +1,59 @@
+{
+  "FormKey": "000033:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_Biggame01",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04C92B:Fallout4.esm",
+        "ParameterOneNumber": 313643
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04A0B8:Fallout4.esm",
+        "ParameterOneNumber": 303288
+      }
+    }
+  ],
+  "CreatedObject": "000032:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

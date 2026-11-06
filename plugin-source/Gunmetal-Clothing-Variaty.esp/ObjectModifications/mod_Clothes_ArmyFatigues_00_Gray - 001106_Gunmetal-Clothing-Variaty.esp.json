@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001106:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_ArmyFatigues_00_Gray",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gray"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gray Clean Army Fatigues"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00173B:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001096:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

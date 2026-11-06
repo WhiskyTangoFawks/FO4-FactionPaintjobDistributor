@@ -1,0 +1,30 @@
+{
+  "FormKey": "0010A0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_01_LightBlue",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\ArmoredCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\ArmoredCoat_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Ronnie\\uniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Ronnie\\uniform_LightBlue.BGSM"
+    }
+  ]
+}

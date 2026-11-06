@@ -1,0 +1,20 @@
+{
+  "FormKey": "00166C:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider01Hood_01_Yellow",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Wrapped Cap."
+  },
+  "CreatedObject": "00163C:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "001607:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_SlinkyDress_01_Purple",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Purple Slinky Dress"
+  },
+  "CreatedObject": "0015E0:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

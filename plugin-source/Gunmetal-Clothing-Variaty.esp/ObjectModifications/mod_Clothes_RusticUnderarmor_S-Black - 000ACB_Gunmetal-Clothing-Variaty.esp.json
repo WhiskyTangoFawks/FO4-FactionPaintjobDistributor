@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000ACB:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RusticUnderarmor_S-Black",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Black Solid"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Solid Black Shirt and Jeans"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174D:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000ABA:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001024:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_Raider01Suit_Red",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Red"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Red Tattered Field Jacket"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00173C:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000922:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

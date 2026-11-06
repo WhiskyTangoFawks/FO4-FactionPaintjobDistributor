@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000D87:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_BOS_KightJacket_Digital",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Digital Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Digital Camo Bomber Jacket"
+  },
+  "AttachPoint": "0016E7:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001759:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000D7F:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

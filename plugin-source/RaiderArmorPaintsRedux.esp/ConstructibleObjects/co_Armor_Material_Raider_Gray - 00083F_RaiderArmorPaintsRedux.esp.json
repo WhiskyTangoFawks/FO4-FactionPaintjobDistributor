@@ -1,0 +1,21 @@
+{
+  "FormKey": "00083F:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Gray",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Gray"
+  },
+  "CreatedObject": "000823:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 100
+    }
+  ]
+}

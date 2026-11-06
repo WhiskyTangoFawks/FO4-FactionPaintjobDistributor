@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00083B:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Platinum",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Platinum"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Platinum"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 70,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00081A:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

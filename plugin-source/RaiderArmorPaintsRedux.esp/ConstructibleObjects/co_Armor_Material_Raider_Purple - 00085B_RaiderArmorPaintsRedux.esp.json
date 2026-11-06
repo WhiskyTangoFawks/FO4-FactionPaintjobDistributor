@@ -1,0 +1,20 @@
+{
+  "FormKey": "00085B:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Purple",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Red"
+  },
+  "CreatedObject": "000859:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

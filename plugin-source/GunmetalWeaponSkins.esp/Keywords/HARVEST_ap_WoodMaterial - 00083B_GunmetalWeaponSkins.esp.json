@@ -1,0 +1,11 @@
+{
+  "FormKey": "00083B:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_ap_WoodMaterial",
+  "FormVersion": 108,
+  "Color": "#FFFFFF",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Wood"
+  }
+}

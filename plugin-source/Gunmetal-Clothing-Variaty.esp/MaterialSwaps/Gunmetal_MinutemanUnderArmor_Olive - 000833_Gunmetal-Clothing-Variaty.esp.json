@@ -1,0 +1,22 @@
+{
+  "FormKey": "000833:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_MinutemanUnderArmor_Olive",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanHat_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanUnderArmor_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "armor\\Minuteman\\General.BGSM",
+      "ReplacementMaterial": "HARVEST\\armor\\Minuteman\\General_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\hat.bgsm",
+      "ReplacementMaterial": "HARVEST\\Armor\\Minuteman\\hat_Olive.bgsm"
+    }
+  ]
+}

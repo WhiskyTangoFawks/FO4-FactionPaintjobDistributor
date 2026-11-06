@@ -1,0 +1,21 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000809:FactionPaintjobs.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_template",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Includes": [
+    {
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

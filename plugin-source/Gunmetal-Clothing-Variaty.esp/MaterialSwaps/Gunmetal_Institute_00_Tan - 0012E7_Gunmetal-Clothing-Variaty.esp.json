@@ -1,0 +1,14 @@
+{
+  "FormKey": "0012E7:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Institute_00_Tan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Father\\Labcoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Father\\Labcoat_Tan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SynthUniform\\SynthUniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SynthUniform\\SynthUniform_Tan.BGSM"
+    }
+  ]
+}

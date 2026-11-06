@@ -1,0 +1,24 @@
+{
+  "FormKey": "00131E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_SynthUniform_01_D-Blue",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Advanced Systems Division Synth Uniform. White base with Blue Harness and Accents."
+  },
+  "CreatedObject": "0012FA:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

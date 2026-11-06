@@ -1,0 +1,119 @@
+{
+  "FormKey": "000813:FactionPaintjobs.esp",
+  "EditorID": "LLI_Weapons_Atomcats",
+  "FormVersion": 112,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 30186,
+        "Reference": "032B01:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 30186,
+        "Reference": "032B01:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 30186,
+        "Reference": "188A71:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 7,
+        "Unused": 30186,
+        "Reference": "032B01:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 7,
+        "Unused": 30186,
+        "Reference": "043225:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 7,
+        "Unused": 30186,
+        "Reference": "05D4D5:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 14,
+        "Unused": 30186,
+        "Reference": "032B01:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 14,
+        "Unused": 30186,
+        "Reference": "0E7511:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 22,
+        "Unused": 30186,
+        "Reference": "188A6B:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 28,
+        "Unused": 30186,
+        "Reference": "0E7511:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 28,
+        "Unused": 30186,
+        "Reference": "0F5C50:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 28,
+        "Unused": 30186,
+        "Reference": "0F5C50:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ]
+}

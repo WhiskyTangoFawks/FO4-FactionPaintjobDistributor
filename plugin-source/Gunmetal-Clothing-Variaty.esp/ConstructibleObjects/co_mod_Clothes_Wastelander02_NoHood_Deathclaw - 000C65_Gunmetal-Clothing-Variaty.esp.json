@@ -1,0 +1,28 @@
+{
+  "FormKey": "000C65:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Wastelander02_NoHood_Deathclaw",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "034604:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Deathclaw Hide"
+  },
+  "CreatedObject": "000C43:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

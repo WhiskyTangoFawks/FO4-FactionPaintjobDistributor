@@ -1,0 +1,13 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000836:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_NULL",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": " Standard"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ]
+}

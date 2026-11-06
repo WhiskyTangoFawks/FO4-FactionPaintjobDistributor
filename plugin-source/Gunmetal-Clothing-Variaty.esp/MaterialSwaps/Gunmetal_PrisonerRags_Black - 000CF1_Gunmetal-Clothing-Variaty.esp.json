@@ -1,0 +1,10 @@
+{
+  "FormKey": "000CF1:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_PrisonerRags_Black",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\PrisonerRags\\PrisonerRags.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\PrisonerRags\\PrisonerRags_Black.BGSM"
+    }
+  ]
+}

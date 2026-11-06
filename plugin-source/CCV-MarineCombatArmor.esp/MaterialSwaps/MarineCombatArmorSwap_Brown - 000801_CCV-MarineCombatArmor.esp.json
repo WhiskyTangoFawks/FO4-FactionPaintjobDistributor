@@ -1,0 +1,30 @@
+{
+  "FormKey": "000801:CCV-MarineCombatArmor.esp",
+  "EditorID": "MarineCombatArmorSwap_Brown",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "DLC03\\armor\\CombatArmor\\Combat_Armor_Body.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatArmor\\Combat_Armor_Body_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC03\\Armor\\CombatArmor\\Combat_Armor_CoA_Body.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatArmor\\Combat_Armor_Body_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC03\\armor\\CombatArmor\\Combat_Armor_Helmet.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatArmor\\Combat_Armor_Helmet_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Body.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Body_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Gloves.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Gloves_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Helmet.BGSM",
+      "ReplacementMaterial": "GMA\\DLC03\\armor\\CombatUnderArmor\\Combat_UnderArmor_Helmet_Brown.BGSM"
+    }
+  ]
+}

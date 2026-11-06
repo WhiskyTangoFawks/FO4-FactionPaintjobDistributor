@@ -1,0 +1,24 @@
+{
+  "FormKey": "000EAB:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_PrisonerRags_Pink",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pink tattered Rags"
+  },
+  "CreatedObject": "000EA1:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

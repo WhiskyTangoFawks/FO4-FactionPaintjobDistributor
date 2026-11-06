@@ -1,0 +1,24 @@
+{
+  "FormKey": "000877:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "co_GWS_DLC04_mod_HandmadeGun_Material_Orange",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00083E:GWS-HandmadeRiflePaints.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

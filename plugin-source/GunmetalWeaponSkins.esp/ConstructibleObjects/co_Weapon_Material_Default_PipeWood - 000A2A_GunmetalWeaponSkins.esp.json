@@ -1,0 +1,14 @@
+{
+  "FormKey": "000A2A:GunmetalWeaponSkins.esp",
+  "EditorID": "co_Weapon_Material_Default_PipeWood",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000A27:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

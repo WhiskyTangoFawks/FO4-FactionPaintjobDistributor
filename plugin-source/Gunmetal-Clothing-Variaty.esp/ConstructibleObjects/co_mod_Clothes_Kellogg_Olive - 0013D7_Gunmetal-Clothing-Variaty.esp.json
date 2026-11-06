@@ -1,0 +1,24 @@
+{
+  "FormKey": "0013D7:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Kellogg_Olive",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Kellogg's Mercenary Outfit"
+  },
+  "CreatedObject": "0013CC:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

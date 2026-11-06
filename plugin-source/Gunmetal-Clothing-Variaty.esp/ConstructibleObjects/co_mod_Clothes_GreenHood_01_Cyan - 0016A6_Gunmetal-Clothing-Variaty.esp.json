@@ -1,0 +1,20 @@
+{
+  "FormKey": "0016A6:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_GreenHood_01_Cyan",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Hood"
+  },
+  "CreatedObject": "001696:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

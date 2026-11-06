@@ -1,0 +1,16 @@
+{
+  "ModKey": "ArtOfWar.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 4015
+    },
+    "Author": "StamperDoesMods",
+    "Description": "Art of War vastly expands the weapon material system of Fallout 4 with dozens of new cosmetic options. Designed with an emphasis on lore and locational viability, this mod allows you to explore a wasteland full of fresh-faced firearms, and build a personalized arsenal that stands out more than ever before!\r\n\r\nThis is the CRAFT ONLY version of the mod, built for compatibility, and contains no vanilla edits.",
+    "INTV": "0x01000000",
+    "INCC": 0
+  }
+}

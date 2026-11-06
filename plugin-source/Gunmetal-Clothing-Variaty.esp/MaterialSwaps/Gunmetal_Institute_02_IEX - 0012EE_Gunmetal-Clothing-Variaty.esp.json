@@ -1,0 +1,14 @@
+{
+  "FormKey": "0012EE:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Institute_02_IEX",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Father\\Labcoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Father\\Labcoat_Red.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SynthUniform\\SynthUniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SynthUniform\\SynthUniform_IEX.BGSM"
+    }
+  ]
+}

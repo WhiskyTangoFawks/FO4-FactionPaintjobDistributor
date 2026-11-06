@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000D3B:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_DCGuardArmor_Leaf",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo Guard outfit"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00175E:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000D10:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

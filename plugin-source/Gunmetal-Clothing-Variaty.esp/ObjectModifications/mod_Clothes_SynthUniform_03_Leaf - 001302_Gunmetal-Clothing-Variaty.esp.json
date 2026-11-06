@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001302:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_SynthUniform_03_Leaf",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo Synth Uniform"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001741:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001305:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

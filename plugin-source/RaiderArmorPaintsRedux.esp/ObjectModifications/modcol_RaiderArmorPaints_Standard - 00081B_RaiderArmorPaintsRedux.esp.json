@@ -1,0 +1,99 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "00081B:RaiderArmorPaintsRedux.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_RaiderArmorPaints_Standard",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "00081D:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000821:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000822:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000823:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000824:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000825:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000826:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000827:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000828:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000829:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082A:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082B:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082C:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082D:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082E:RaiderArmorPaintsRedux.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000820:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00083C:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 55,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000859:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 10,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

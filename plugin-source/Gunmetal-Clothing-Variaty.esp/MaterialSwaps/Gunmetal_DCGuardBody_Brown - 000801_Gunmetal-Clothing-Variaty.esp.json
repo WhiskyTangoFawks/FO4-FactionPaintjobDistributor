@@ -1,0 +1,14 @@
+{
+  "FormKey": "000801:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_DCGuardBody_Brown",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\DCGuard\\DCGuardArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\DCGuard\\DCGuardArmor_Brown.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\DCGuard\\DCGuardBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\DCGuard\\DCGuardBody_Brown.BGSM"
+    }
+  ]
+}

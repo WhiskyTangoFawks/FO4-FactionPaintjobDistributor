@@ -1,0 +1,21 @@
+{
+  "FormKey": "0008A0:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "misc_GWS_DLC04_mod_HandmadeGun_Material_Multi",
+  "ObjectBounds": {
+    "First": "-14, -4, 0",
+    "Second": "14, 5, 7"
+  },
+  "PreviewTransform": "248769:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Multicam"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000004000000000000000200000001000000A694EAF564647300CCD97AD77FF8EC9664647300CCD97AD76111397664647300CCD97AD771D5D693646473001CDB88C592294F856267736D9716E4B2"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ],
+  "Value": 1
+}

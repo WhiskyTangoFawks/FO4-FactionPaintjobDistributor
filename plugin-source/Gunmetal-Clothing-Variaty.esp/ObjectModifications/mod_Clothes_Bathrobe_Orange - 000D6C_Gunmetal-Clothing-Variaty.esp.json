@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000D6C:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_Bathrobe_Orange",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Orange"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Orange Bathrobe"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00175C:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000D5F:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

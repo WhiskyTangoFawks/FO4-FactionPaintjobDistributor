@@ -1,0 +1,19 @@
+{
+  "ModKey": "FactionPaintjobs.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 3539
+    },
+    "Author": "",
+    "OverriddenForms": [
+      "05F762:Fallout4.esm",
+      "0AB25D:Fallout4.esm"
+    ],
+    "INCC": 1
+  }
+}

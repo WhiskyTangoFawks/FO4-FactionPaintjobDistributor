@@ -1,0 +1,24 @@
+{
+  "FormKey": "000875:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Suit_Dirty_Olive",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Suit to Dirty Olive Green Texture Swap"
+  },
+  "CreatedObject": "000860:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

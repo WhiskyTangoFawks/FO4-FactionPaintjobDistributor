@@ -1,0 +1,38 @@
+{
+  "FormKey": "000926:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_DoubleBarrelGreen",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\DoubleBarrelMuzzleBreaksGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\ShotgunBarrelLong.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\ShotgunBarrelLongGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\ShotgunBarrelMedium.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\ShotgunBarrelMediumGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\ShotgunBarrelShort.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\ShotgunBarrelShortGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\ShotgunReceiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\ShotgunReceiverGreen.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Shotgun\\ShotgunStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Shotgun\\ShotgunStockGreen.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

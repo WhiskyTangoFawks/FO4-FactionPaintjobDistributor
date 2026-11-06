@@ -1,0 +1,14 @@
+{
+  "FormKey": "00085A:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Suit_JhonWick",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Suit\\MOutfitClean.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Wick.BGSM"
+    },
+    {
+      "OriginalMaterial": "clothes\\suit\\MOutfitClean2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Wick.BGSM"
+    }
+  ]
+}

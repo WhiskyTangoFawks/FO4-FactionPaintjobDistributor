@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000CDA:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_HighSchoolOutfit_Yellow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yellow"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Yellow Undershirt and Jeans"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00175D:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000CCF:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

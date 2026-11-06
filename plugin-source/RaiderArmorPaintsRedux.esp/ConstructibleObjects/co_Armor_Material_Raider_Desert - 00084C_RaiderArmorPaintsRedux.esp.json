@@ -1,0 +1,21 @@
+{
+  "FormKey": "00084C:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Desert",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "CreatedObject": "000830:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 80
+    }
+  ]
+}

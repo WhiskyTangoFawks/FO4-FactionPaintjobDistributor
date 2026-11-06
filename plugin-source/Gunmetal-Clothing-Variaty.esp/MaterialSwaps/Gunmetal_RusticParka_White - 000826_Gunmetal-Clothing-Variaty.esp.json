@@ -1,0 +1,10 @@
+{
+  "FormKey": "000826:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RusticParka_White",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RusticUnderArmor\\RusticParka.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RusticUnderArmor\\RusticParka_White.BGSM"
+    }
+  ]
+}

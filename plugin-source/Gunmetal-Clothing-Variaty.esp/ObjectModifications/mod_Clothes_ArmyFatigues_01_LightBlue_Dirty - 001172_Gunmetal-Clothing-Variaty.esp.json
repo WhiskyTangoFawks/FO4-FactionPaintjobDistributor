@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001172:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_ArmyFatigues_01_LightBlue_Dirty",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue - Dirty"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Dirty Army Fatigues"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001748:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00115C:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

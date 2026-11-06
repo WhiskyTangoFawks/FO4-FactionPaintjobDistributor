@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000096:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Classic_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Classic Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Progenitor AER9 frame design."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FA4:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000087:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

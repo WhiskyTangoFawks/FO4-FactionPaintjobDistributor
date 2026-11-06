@@ -1,0 +1,24 @@
+{
+  "FormKey": "0012CC:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider03_Black",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Black Leather Coat"
+  },
+  "CreatedObject": "00107E:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

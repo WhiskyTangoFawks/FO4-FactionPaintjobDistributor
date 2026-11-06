@@ -1,0 +1,20 @@
+{
+  "FormKey": "000838:CCV-MarineCombatArmor.esp",
+  "EditorID": "co_GMA_mod_armor_Marine_Paint_Desert",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "CreatedObject": "000824:CCV-MarineCombatArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

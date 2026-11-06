@@ -1,0 +1,30 @@
+{
+  "FormKey": "000034:ArtOfWar.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 12468,
+  "EditorID": "Del20_MaterialSwap_WeaponSkin_Antique",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunBarrelLong.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Antique\\ShotgunBarrelLong_Antique.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunReceiver.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Antique\\ShotgunReceiver_Antique.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\DoubleBarrelMuzzleBreaks.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Antique\\DoubleBarrelMuzzleBreaks_Antique.bgsm"
+    },
+    {
+      "OriginalMaterial": "weapons\\Shotgun\\ShotgunStock.bgsm",
+      "ReplacementMaterial": "Camouflage\\Shotgun\\Antique\\ShotgunStock_Antique.bgsm"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

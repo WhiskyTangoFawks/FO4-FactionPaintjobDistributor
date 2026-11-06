@@ -1,0 +1,22 @@
+{
+  "FormKey": "000832:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_MinutemanUnderArmor_Navy",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanHat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanHat_Navy.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MinutemanUnderArmor\\MinutemanUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MinutemanUnderArmor\\MinutemanUnderArmor_Navy.BGSM"
+    },
+    {
+      "OriginalMaterial": "armor\\Minuteman\\General.BGSM",
+      "ReplacementMaterial": "HARVEST\\armor\\Minuteman\\General_Navy.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Minuteman\\hat.bgsm",
+      "ReplacementMaterial": "HARVEST\\Armor\\Minuteman\\hat_Navy.bgsm"
+    }
+  ]
+}

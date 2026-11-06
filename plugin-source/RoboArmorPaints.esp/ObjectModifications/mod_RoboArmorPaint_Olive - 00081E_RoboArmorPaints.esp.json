@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081E:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Olive",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000805:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

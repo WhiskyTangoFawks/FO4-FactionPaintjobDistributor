@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082E:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Urban",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Urban Digital"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Urban Digital"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000815:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

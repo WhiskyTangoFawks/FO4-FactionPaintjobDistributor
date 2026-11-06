@@ -1,0 +1,24 @@
+{
+  "FormKey": "001137:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_ArmyFatigues_01_Orange",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Orange Clean Army Fatigues"
+  },
+  "CreatedObject": "00110F:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000A8D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_MinutemanHat_LightBlue",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue Militia Hat"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001752:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00082D:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

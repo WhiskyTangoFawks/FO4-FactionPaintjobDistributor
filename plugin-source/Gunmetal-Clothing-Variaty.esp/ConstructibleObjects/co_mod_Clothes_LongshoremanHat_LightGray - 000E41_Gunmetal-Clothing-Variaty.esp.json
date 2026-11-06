@@ -1,0 +1,20 @@
+{
+  "FormKey": "000E41:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_LongshoremanHat_LightGray",
+  "Components": [
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray Longshoreman Hat"
+  },
+  "CreatedObject": "000E31:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

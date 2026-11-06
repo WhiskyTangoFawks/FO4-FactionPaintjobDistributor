@@ -1,0 +1,30 @@
+{
+  "FormKey": "0011D4:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Gloves_00_White",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\Armored_Coat_Glove.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\Armored_Coat_Glove_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Gloves_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyGloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyGloves_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident3Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident3Gloves_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident5Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident5Gloves_White.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Residents\\Resident7Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Residents\\Resident7Gloves_White.BGSM"
+    }
+  ]
+}

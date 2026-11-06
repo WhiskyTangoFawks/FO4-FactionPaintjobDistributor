@@ -1,0 +1,28 @@
+{
+  "FormKey": "0008E5:GunmetalWeaponSkins.esp",
+  "EditorID": "co_mod_Ornamental_Material_Steel",
+  "Components": [
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0008E2:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

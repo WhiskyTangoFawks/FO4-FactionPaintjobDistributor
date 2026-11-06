@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000A29:GunmetalWeaponSkins.esp",
+  "EditorID": "Weapon_Material_Default_SMG",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "No Material"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "188A5A:Fallout4.esm"
+  ]
+}

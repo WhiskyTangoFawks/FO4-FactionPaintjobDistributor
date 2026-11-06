@@ -1,0 +1,10 @@
+{
+  "FormKey": "000B03:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_KnightUnderarmor_Navy-Dark",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\KnightUnderArmor\\KnightBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\KnightUnderArmor\\KnightBody_Navy-Dark.BGSM"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "00084B:GWS-HandmadeRiflePaints.esp",
+  "EditorID": "GWS_DLC04_mod_HandmadeGun_Material_CF",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Carbon Fiber"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "04D93A:DLCNukaWorld.esm",
+  "TargetOmodKeywords": [
+    "0008D7:GWS-HandmadeRiflePaints.esp"
+  ],
+  "LooseMod": "00088E:GWS-HandmadeRiflePaints.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000815:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000846:GWS-HandmadeRiflePaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

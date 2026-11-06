@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001114:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_ArmyFatigues_02_Denim",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Denim"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Denim Clean Army Fatigues"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00173B:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0010A4:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

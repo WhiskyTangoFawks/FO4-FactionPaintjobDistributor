@@ -1,0 +1,90 @@
+{
+  "FormKey": "00081A:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_PipeDarkRed",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\45\\45Receiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\45\\45ReceiverDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrelPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelPortedDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGripDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGripDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStockDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PipeStock\\PipeStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PipeStock\\PipeStockDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PistolGrip\\PistolGripDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\SpringStock\\Springstock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\SpringStock\\SpringstockDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressorDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\45PipeRifleMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\45PipeRifleMagRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\FlutedBarrelDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifle.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPortedDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMagRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleIronSights.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleIronSightsDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaks.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaksDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSightDarkRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScopeDarkRed.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

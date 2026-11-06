@@ -1,0 +1,24 @@
+{
+  "FormKey": "001350:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Cait_Navy",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Navy Blue Corset"
+  },
+  "CreatedObject": "001345:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

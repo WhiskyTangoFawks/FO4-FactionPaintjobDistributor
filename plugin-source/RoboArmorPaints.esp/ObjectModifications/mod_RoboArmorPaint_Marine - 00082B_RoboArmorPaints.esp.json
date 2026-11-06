@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082B:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Marine",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Marine Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Marine Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000812:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

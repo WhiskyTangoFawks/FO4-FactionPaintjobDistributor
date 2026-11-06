@@ -1,0 +1,70 @@
+{
+  "FormKey": "00132D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_UniqueOutfits_00_Olive",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Kellogg\\Kellogg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Kellogg\\Kellogg_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MacCready\\Outfit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MacCready\\Outfit_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonBody1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonBody_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonHat1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonHat_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Cait\\Cait.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Cait\\Cait_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat2Sided_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Desdemona\\DesdemonaBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Desdemona\\DesdemonaBody_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hancock\\HancockBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hancock\\HancockBody_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hancock\\HancockBody2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hancock\\HancockBody2Sided_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF_alpha.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyM_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\FancyGlasses.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\FancyGlasses_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SequinDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Olive.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SlinkyDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Olive.BGSM"
+    }
+  ]
+}

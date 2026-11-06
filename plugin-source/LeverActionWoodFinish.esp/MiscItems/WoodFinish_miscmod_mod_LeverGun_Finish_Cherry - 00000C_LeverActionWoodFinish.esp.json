@@ -1,0 +1,23 @@
+{
+  "FormKey": "00000C:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "WoodFinish_miscmod_mod_LeverGun_Finish_Cherry",
+  "ObjectBounds": {
+    "First": "-14, -4, 0",
+    "Second": "14, 5, 7"
+  },
+  "PreviewTransform": "0276A8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Lever Action Rifle Cherry Finish"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ],
+  "Value": 8,
+  "Weight": 0.5
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "000DFE:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_JumpSuit_Leaf",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Leaf Camo Jumpsuit"
+  },
+  "CreatedObject": "000DEB:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

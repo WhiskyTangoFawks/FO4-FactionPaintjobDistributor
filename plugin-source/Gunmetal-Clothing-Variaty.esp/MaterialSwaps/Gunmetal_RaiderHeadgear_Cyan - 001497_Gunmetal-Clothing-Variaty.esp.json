@@ -1,0 +1,18 @@
+{
+  "FormKey": "001497:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RaiderHeadgear_Cyan",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear1_Cyan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear2.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear2_Cyan.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear3.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear3_Cyan.BGSM"
+    }
+  ]
+}

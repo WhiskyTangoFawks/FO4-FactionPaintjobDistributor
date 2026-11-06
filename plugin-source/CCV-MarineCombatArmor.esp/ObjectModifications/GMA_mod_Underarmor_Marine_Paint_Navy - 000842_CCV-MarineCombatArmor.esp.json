@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000842:CCV-MarineCombatArmor.esp",
+  "EditorID": "GMA_mod_Underarmor_Marine_Paint_Navy",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Navy Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Navy Blue"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000816:CCV-MarineCombatArmor.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0B973A:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000804:CCV-MarineCombatArmor.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

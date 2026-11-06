@@ -1,0 +1,24 @@
+{
+  "FormKey": "0016C8:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_WastelandCommon_LightBlue",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue Shirt and Combat Boots"
+  },
+  "CreatedObject": "000F66:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

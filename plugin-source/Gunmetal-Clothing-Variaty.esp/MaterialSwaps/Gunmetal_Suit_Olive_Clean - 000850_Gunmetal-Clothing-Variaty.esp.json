@@ -1,0 +1,14 @@
+{
+  "FormKey": "000850:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Suit_Olive_Clean",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Suit\\MOutfitClean.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Olive_Clean.BGSM"
+    },
+    {
+      "OriginalMaterial": "clothes\\suit\\MOutfitClean2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Olive_Clean.BGSM"
+    }
+  ]
+}

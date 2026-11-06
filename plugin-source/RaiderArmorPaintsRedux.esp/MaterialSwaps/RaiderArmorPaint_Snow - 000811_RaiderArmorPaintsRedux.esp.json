@@ -1,0 +1,23 @@
+{
+  "FormKey": "000811:RaiderArmorPaintsRedux.esp",
+  "EditorID": "RaiderArmorPaint_Snow",
+  "FormVersion": 60,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_arms.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_arms_Snow.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_legs.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_legs_Snow.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy02\\raider_heavy_armor_torsos.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderHeavy02\\raider_heavy_armor_torsos_Snow.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Armor.BGSM",
+      "ReplacementMaterial": "Shanic\\Armor\\RaiderModArmor\\Armor_Snow.BGSM"
+    }
+  ]
+}

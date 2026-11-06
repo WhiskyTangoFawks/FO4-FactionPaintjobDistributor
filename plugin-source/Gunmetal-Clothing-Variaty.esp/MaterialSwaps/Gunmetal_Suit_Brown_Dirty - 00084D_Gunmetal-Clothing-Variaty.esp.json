@@ -1,0 +1,14 @@
+{
+  "FormKey": "00084D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Suit_Brown_Dirty",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Suit\\MOutfitClean.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Brown_Dirty.BGSM"
+    },
+    {
+      "OriginalMaterial": "clothes\\suit\\MOutfitClean2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Brown_Dirty.BGSM"
+    }
+  ]
+}

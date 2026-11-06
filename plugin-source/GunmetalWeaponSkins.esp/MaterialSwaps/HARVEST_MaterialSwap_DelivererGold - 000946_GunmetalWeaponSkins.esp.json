@@ -1,0 +1,22 @@
+{
+  "FormKey": "000946:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_DelivererGold",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\CovertSidearm\\CovertSidearm.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CovertSidearm\\CovertSidearmGold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\CovertSidearm\\CovertSupressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\CovertSidearm\\CovertSupressorGold.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

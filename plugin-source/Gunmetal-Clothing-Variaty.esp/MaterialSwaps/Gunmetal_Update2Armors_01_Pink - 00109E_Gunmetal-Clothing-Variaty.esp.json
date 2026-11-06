@@ -1,0 +1,30 @@
+{
+  "FormKey": "00109E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_01_Pink",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\ArmoredCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\ArmoredCoat_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided_Pink.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Ronnie\\uniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Ronnie\\uniform_Pink.BGSM"
+    }
+  ]
+}

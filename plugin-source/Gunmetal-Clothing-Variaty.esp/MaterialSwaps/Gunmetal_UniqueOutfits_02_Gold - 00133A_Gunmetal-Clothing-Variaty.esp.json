@@ -1,0 +1,62 @@
+{
+  "FormKey": "00133A:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_UniqueOutfits_02_Gold",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Kellogg\\Kellogg.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Kellogg\\Kellogg_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\MacCready\\Outfit.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\MacCready\\Outfit_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonBody1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonBody_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\Preston\\PrestonHat1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Preston\\PrestonHat_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Courser\\CourserCoat2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Courser\\CourserCoat2Sided_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Desdemona\\DesdemonaBody.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Desdemona\\DesdemonaBody_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Hancock\\HancockBody2Sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Hancock\\HancockBody2Sided_Black.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyF_alpha.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyF_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Piper\\PiperBodyM.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Piper\\PiperBodyM_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\FancyGlasses.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\FancyGlasses_Gold.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SequinDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Bronze.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\SlinkyDress\\SlinkyDress.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SlinkyDress\\SequinDress_Bronze.BGSM"
+    }
+  ]
+}

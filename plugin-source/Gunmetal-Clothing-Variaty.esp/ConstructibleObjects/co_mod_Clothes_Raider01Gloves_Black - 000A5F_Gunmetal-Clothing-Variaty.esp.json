@@ -1,0 +1,24 @@
+{
+  "FormKey": "000A5F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider01Gloves_Black",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Black Tattered Field Gloves"
+  },
+  "CreatedObject": "000A45:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

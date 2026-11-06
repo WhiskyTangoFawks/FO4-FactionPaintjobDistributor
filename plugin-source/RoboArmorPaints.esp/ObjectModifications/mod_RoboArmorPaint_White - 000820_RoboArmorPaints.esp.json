@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000820:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_White",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "White"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "White"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000807:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

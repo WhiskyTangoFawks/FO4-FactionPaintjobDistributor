@@ -1,0 +1,33 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000826:CCV-MarineCombatArmor.esp",
+  "EditorID": "GMA_mod_armor_Marine_Paint_Marine",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Marine Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Marine Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000815:CCV-MarineCombatArmor.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "24A0C7:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000810:CCV-MarineCombatArmor.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

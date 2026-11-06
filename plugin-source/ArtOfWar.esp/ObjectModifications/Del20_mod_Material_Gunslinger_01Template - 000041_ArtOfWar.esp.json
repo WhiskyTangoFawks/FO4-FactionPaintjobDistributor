@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000041:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_mod_Material_Gunslinger_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cattleman Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Rustic design favored by caravaneers and other wasteland wayfarers."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FAC:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000040:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

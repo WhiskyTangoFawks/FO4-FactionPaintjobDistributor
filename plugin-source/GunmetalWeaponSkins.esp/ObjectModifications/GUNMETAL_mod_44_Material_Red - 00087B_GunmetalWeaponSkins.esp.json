@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "00087B:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_44_Material_Red",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nuka Cola"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Nuka Cola Themed Paint Job."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000A31:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00087A:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

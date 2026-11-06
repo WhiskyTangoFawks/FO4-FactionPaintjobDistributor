@@ -1,0 +1,24 @@
+{
+  "FormKey": "0012D8:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Raider03_Olive",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab Leather Coat"
+  },
+  "CreatedObject": "00108A:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

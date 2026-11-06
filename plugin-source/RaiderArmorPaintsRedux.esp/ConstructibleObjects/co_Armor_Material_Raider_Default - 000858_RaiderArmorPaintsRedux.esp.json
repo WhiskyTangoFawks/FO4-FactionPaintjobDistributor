@@ -1,0 +1,20 @@
+{
+  "FormKey": "000858:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Default",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "CreatedObject": "00081D:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

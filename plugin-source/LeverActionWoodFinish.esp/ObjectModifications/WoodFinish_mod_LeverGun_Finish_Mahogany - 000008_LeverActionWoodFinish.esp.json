@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000008:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "WoodFinish_mod_LeverGun_Finish_Mahogany",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mahogany"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Classic."
+  },
+  "AttachPoint": "000001:LeverActionWoodFinish.esp",
+  "TargetOmodKeywords": [
+    "049CCB:DLCCoast.esm"
+  ],
+  "LooseMod": "000007:LeverActionWoodFinish.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "FunctionType": "Add"
+    }
+  ]
+}

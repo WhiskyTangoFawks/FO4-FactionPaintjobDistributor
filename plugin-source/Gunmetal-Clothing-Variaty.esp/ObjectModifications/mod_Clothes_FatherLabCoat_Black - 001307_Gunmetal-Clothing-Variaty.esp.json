@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001307:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_FatherLabCoat_Black",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Black"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Father's Labcoat"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001742:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0012E1:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

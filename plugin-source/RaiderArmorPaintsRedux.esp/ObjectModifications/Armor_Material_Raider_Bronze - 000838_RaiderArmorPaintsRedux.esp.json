@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000838:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Bronze",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bronze"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Bronze"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 70,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000817:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

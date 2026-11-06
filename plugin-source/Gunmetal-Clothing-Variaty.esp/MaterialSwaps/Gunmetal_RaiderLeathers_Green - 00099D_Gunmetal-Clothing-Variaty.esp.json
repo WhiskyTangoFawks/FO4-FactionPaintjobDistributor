@@ -1,0 +1,10 @@
+{
+  "FormKey": "00099D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RaiderLeathers_Green",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Underrmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Underarmor_Green.BGSM"
+    }
+  ]
+}

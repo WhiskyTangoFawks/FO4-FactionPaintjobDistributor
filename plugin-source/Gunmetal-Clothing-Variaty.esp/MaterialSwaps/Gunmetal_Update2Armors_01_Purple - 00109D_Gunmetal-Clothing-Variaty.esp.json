@@ -1,0 +1,30 @@
+{
+  "FormKey": "00109D:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Update2Armors_01_Purple",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\ArmoredCoat\\ArmoredCoat.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmoredCoat\\ArmoredCoat_Purple.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyFatigues.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyFatigues_Purple.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\ArmyFatigues\\ArmyHelmet.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\ArmyFatigues\\ArmyHelmet_Purple.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor_Purple.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderHeavy\\RaiderHeavyUnderArmor2sided_Purple.BGSM"
+    },
+    {
+      "OriginalMaterial": "Clothes\\Ronnie\\uniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Ronnie\\uniform_Purple.BGSM"
+    }
+  ]
+}

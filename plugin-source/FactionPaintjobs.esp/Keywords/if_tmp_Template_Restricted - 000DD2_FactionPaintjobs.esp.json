@@ -1,0 +1,15 @@
+{
+  "FormKey": "000DD2:FactionPaintjobs.esp",
+  "MajorRecordFlagsRaw": 32768,
+  "EditorID": "if_tmp_Template_Restricted",
+  "FormVersion": 63,
+  "Fallout4MajorRecordFlags": [
+    "VisibleWhenDistant"
+  ],
+  "Color": "#00FFFFFF",
+  "Notes": "Note: this should not be directly used in leveled lists. It is added to leveled lists via code when rolling for \"epicness\" The numberic value of which is set by iEpicLootEpicKeywordChance game setting",
+  "Type": "InstantiationFilter",
+  "MajorFlags": [
+    "0x8000"
+  ]
+}

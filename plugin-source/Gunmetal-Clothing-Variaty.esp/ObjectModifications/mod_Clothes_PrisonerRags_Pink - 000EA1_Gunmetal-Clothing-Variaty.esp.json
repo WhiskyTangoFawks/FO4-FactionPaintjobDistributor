@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000EA1:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_PrisonerRags_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pink tattered Rags"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001751:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000E97:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

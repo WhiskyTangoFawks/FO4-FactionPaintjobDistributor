@@ -1,0 +1,208 @@
+{
+  "FormKey": "04F48B:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "EditorID": "V81SecurityTemplate",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "ObjectBounds": {
+    "First": "-22, -14, 0",
+    "Second": "22, 14, 128"
+  },
+  "Flags": [
+    "Respawn",
+    "AutoCalcStats"
+  ],
+  "Level": {
+    "MutagenObjectType": "PcLevelMult",
+    "LevelMult": 1.0
+  },
+  "CalcMinLevel": 20,
+  "CalcMaxLevel": 50,
+  "DispositionBase": 35,
+  "Unknown": 16341,
+  "Factions": [
+    {
+      "Faction": "04F4A4:Fallout4.esm"
+    },
+    {
+      "Faction": "0581B3:Fallout4.esm"
+    },
+    {
+      "Faction": "0581B4:Fallout4.esm"
+    }
+  ],
+  "Voice": "0644EF:Fallout4.esm",
+  "Race": "013746:Fallout4.esm",
+  "Properties": [
+    {
+      "ActorValue": "0002C2:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C3:Fallout4.esm",
+      "Value": 5.0
+    },
+    {
+      "ActorValue": "0002C4:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C5:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C6:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C7:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002C8:Fallout4.esm"
+    },
+    {
+      "ActorValue": "0002D4:Fallout4.esm",
+      "Value": 240.0
+    },
+    {
+      "ActorValue": "0002D5:Fallout4.esm",
+      "Value": 50.0
+    },
+    {
+      "ActorValue": "0002DA:Fallout4.esm",
+      "Value": 100.0
+    }
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "095E8E:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "1081BB:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ],
+  "Aggression": "Aggressive",
+  "Confidence": "Foolhardy",
+  "EnergyLevel": 50,
+  "Responsibility": "NoCrime",
+  "Assistance": "HelpsFriendsAndAllies",
+  "Keywords": [
+    "022E49:Fallout4.esm",
+    "0C866C:Fallout4.esm"
+  ],
+  "Class": "002F64:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Vault Security"
+  },
+  "CalculatedHealth": 375,
+  "CalculatedActionPoints": 50,
+  "GearedUpWeapons": 1,
+  "HeadParts": [
+    "01EEBB:Fallout4.esm",
+    "01F735:Fallout4.esm",
+    "0209F4:Fallout4.esm",
+    "0423AF:Fallout4.esm",
+    "051631:Fallout4.esm",
+    "0821DC:Fallout4.esm",
+    "0821DD:Fallout4.esm",
+    "0821DE:Fallout4.esm",
+    "0821DF:Fallout4.esm",
+    "0844A7:Fallout4.esm",
+    "11CCBD:Fallout4.esm",
+    "135A96:Fallout4.esm"
+  ],
+  "NAM5": "0xFF00",
+  "HeightMin": 1.0,
+  "NAM7": 0.0,
+  "HeightMax": 1.0,
+  "Weight": {
+    "Thin": 0.5,
+    "Muscular": 0.5
+  },
+  "SoundLevel": "Normal",
+  "DefaultOutfit": "095E8F:Fallout4.esm",
+  "CrimeFaction": "0581B3:Fallout4.esm",
+  "TextureLighting": "#93D6C5C0",
+  "Morphs": [
+    {
+      "Key": 921646204,
+      "Value": 1.0
+    },
+    {
+      "Key": 921646489,
+      "Value": 0.55
+    }
+  ],
+  "FaceTintingLayers": [
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1156,
+      "Value": 0.58,
+      "Color": "#00D6C5C0",
+      "TemplateColorIndex": 1161
+    },
+    {
+      "DataType": "Value",
+      "Index": 1181,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "Value",
+      "Index": 1193,
+      "Value": 1.0,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    },
+    {
+      "DataType": "ValueAndColor",
+      "Index": 1202,
+      "Value": 0.34,
+      "Color": "#00000000",
+      "TemplateColorIndex": 1202
+    },
+    {
+      "DataType": "Value",
+      "Index": 1230,
+      "TENDDataTypeState": [
+        "Break0"
+      ]
+    }
+  ],
+  "FaceMorphs": [
+    {
+      "Index": 9,
+      "Position": "0, -0.2, 0",
+      "Scale": -0.02
+    },
+    {
+      "Index": 10,
+      "Position": "-1, 0.089999996, 0"
+    },
+    {
+      "Index": 921646273,
+      "Position": "0, 0.03, -0.53",
+      "Scale": 0.78
+    },
+    {
+      "Index": 921646275,
+      "Position": "0, 0.11, -1",
+      "Scale": 0.43
+    },
+    {
+      "Index": 921646278,
+      "Scale": 0.03
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

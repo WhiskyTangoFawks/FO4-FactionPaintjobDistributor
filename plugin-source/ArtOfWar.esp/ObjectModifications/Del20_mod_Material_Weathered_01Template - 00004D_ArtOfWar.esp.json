@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "00004D:ArtOfWar.esp",
+  "VersionControl": 12523,
+  "EditorID": "Del20_mod_Material_Weathered_01Template",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Weathered Design"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Worn and wasteland-weary design. Oh, the stories this piece could tell..."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000FA9:ArtOfWar.esp"
+  ],
+  "Priority": 1,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00004C:ArtOfWar.esp",
+      "Value": 382,
+      "FunctionType": "Add"
+    }
+  ]
+}

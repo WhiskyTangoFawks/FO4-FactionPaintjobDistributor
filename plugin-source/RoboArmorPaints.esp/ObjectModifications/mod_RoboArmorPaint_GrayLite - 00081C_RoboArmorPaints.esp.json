@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00081C:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_GrayLite",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Gray"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000803:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

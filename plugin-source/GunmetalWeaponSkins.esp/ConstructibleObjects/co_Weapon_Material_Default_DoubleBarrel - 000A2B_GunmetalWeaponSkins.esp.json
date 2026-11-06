@@ -1,0 +1,14 @@
+{
+  "FormKey": "000A2B:GunmetalWeaponSkins.esp",
+  "EditorID": "co_Weapon_Material_Default_DoubleBarrel",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000A28:GunmetalWeaponSkins.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

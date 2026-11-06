@@ -1,0 +1,32 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "0008E2:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_Ornamental_Material_Steel",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Ornamental"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Engraved Ornamental Design"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "0008E3:GunmetalWeaponSkins.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0008E1:GunmetalWeaponSkins.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Weapon+Property>",
+      "Property": "Value",
+      "Value": 0.075,
+      "FunctionType": "MultAndAdd"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "FormKey": "001029:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Raider01Glove_LightGray",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Gloves_Gray.BGSM"
+    }
+  ]
+}

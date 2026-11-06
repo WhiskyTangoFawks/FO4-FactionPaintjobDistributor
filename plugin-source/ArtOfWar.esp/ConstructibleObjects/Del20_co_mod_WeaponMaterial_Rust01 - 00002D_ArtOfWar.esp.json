@@ -1,0 +1,39 @@
+{
+  "FormKey": "00002D:ArtOfWar.esp",
+  "VersionControl": 12549,
+  "EditorID": "Del20_co_mod_WeaponMaterial_Rust01",
+  "Components": [
+    {
+      "Component": "01FA8C:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "0366BF:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThanOrEqualTo",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "065E65:Fallout4.esm",
+        "ParameterOneNumber": 417381
+      }
+    }
+  ],
+  "CreatedObject": "00002A:ArtOfWar.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

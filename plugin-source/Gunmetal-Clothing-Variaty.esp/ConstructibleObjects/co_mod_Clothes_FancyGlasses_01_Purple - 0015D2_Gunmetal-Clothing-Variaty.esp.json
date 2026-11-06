@@ -1,0 +1,20 @@
+{
+  "FormKey": "0015D2:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_FancyGlasses_01_Purple",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Fashionable Glasses"
+  },
+  "CreatedObject": "0015C2:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

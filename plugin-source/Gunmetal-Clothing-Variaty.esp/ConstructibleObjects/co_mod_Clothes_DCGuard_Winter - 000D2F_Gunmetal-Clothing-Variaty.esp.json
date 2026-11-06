@@ -1,0 +1,24 @@
+{
+  "FormKey": "000D2F:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_DCGuard_Winter",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Winter Camo Guard outfit"
+  },
+  "CreatedObject": "000D23:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

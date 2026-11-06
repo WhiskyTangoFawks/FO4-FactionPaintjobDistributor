@@ -1,0 +1,24 @@
+{
+  "FormKey": "0013A1:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Piper_White",
+  "Components": [
+    {
+      "Component": "01FAAE:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Leather Trench Coat"
+  },
+  "CreatedObject": "001393:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "001321:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_SynthUniform_01_D-Yellow",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Institute Facilities Synth Uniform. White base with Yellow Harness and Accents."
+  },
+  "CreatedObject": "0012FD:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

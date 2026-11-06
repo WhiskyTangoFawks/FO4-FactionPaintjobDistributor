@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000830:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Desert",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Desert Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000803:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

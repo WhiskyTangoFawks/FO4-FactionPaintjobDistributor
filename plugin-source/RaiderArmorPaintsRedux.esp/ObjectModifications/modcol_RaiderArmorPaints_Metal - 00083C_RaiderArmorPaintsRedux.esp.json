@@ -1,0 +1,39 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "00083C:RaiderArmorPaintsRedux.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_RaiderArmorPaints_Metal",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "000838:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 50,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000839:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 60,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00083A:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 70,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00083B:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 80,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

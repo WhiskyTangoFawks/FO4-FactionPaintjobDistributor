@@ -1,0 +1,14 @@
+{
+  "FormKey": "17B089:Fallout4.esm",
+  "MajorRecordFlagsRaw": 32768,
+  "EditorID": "if_tmp_armor_Material_0B_Restricted",
+  "FormVersion": 119,
+  "Fallout4MajorRecordFlags": [
+    "VisibleWhenDistant"
+  ],
+  "Color": "#00FFFFFF",
+  "Type": "InstantiationFilter",
+  "MajorFlags": [
+    "0x8000"
+  ]
+}

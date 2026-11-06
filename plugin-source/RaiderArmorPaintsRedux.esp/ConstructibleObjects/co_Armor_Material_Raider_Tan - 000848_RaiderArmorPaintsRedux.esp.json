@@ -1,0 +1,21 @@
+{
+  "FormKey": "000848:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Tan",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Tan"
+  },
+  "CreatedObject": "00082C:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 100
+    }
+  ]
+}

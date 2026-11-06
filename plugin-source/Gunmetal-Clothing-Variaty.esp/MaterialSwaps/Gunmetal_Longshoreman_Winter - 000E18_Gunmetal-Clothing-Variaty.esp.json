@@ -1,0 +1,10 @@
+{
+  "FormKey": "000E18:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Longshoreman_Winter",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Longshoreman\\Longshoreman.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Longshoreman\\Longshoreman_Winter.BGSM"
+    }
+  ]
+}

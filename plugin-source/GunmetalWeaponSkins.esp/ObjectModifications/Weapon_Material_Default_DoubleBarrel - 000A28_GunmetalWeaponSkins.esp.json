@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000A28:GunmetalWeaponSkins.esp",
+  "EditorID": "Weapon_Material_Default_DoubleBarrel",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "No Material"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "188A1C:Fallout4.esm"
+  ]
+}

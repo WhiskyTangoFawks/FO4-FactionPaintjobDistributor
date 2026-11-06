@@ -1,0 +1,10 @@
+{
+  "FormKey": "24A0D8:Fallout4.esm",
+  "EditorID": "ap_WeaponMaterial",
+  "Color": "#00FFFFFF",
+  "Type": "AttachPoint",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Paint"
+  }
+}

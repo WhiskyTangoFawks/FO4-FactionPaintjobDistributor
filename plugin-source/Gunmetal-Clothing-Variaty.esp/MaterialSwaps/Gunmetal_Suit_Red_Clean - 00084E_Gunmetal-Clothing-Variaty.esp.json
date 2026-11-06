@@ -1,0 +1,14 @@
+{
+  "FormKey": "00084E:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Suit_Red_Clean",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\Suit\\MOutfitClean.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Red_Clean.BGSM"
+    },
+    {
+      "OriginalMaterial": "clothes\\suit\\MOutfitClean2sided.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\Suit\\MOutfit_Red_Clean.BGSM"
+    }
+  ]
+}

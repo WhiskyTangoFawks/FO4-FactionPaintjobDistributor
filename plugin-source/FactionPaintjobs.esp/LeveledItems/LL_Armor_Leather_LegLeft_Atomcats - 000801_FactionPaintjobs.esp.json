@@ -1,0 +1,21 @@
+{
+  "FormKey": "000801:FactionPaintjobs.esp",
+  "EditorID": "LL_Armor_Leather_LegLeft_Atomcats",
+  "FormVersion": 110,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 19326,
+        "Reference": "07BB17:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ]
+}

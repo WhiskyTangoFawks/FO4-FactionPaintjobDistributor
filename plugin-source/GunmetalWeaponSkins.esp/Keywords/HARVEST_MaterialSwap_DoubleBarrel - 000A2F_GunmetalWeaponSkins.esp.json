@@ -1,0 +1,8 @@
+{
+  "FormKey": "000A2F:GunmetalWeaponSkins.esp",
+  "EditorID": "HARVEST_MaterialSwap_DoubleBarrel",
+  "FormVersion": 71,
+  "Color": "#00FFFFFF",
+  "Notes": "used for standard clothing and armor linings that add things like Fire Resistance, Cryo Resistance, etc.",
+  "Type": "ModAssociation"
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000828:RoboArmorPaints.esp",
+  "EditorID": "mod_RoboArmorPaint_Crimson",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Crimson Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000819:RoboArmorPaints.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00080F:RoboArmorPaints.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

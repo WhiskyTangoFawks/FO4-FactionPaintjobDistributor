@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "001679:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_AssaultGasMask_01_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Assault Gas Mask"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001745:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0011F9:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "FormKey": "000D7A:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_Bathrobe_Purple",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Purple Bathrobe"
+  },
+  "CreatedObject": "000D6D:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

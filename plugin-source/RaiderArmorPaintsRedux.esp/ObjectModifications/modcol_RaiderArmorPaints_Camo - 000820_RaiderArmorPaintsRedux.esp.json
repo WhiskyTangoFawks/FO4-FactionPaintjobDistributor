@@ -1,0 +1,59 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000820:RaiderArmorPaintsRedux.esp",
+  "MajorRecordFlagsRaw": 128,
+  "EditorID": "modcol_RaiderArmorPaints_Camo",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "000837:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000830:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000834:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000832:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "00082F:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 20,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000833:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 20,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000835:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 20,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000836:RaiderArmorPaintsRedux.esp",
+      "MinimumLevel": 20,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

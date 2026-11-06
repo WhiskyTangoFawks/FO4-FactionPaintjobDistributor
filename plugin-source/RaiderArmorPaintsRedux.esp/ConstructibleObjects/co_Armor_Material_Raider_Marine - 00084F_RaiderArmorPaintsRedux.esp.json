@@ -1,0 +1,21 @@
+{
+  "FormKey": "00084F:RaiderArmorPaintsRedux.esp",
+  "EditorID": "co_Armor_Material_Raider_Marine",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Marine Blue Camo"
+  },
+  "CreatedObject": "000833:RaiderArmorPaintsRedux.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1,
+      "Priority": 80
+    }
+  ]
+}

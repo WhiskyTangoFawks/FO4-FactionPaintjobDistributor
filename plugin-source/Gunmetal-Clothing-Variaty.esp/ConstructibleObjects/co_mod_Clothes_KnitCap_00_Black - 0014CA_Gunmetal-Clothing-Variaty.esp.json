@@ -1,0 +1,20 @@
+{
+  "FormKey": "0014CA:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_KnitCap_00_Black",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Knit Cap"
+  },
+  "CreatedObject": "0014BA:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

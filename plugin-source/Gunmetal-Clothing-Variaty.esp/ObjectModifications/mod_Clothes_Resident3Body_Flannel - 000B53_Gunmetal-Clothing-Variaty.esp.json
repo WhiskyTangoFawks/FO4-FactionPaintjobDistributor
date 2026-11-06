@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000B53:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_Resident3Body_Flannel",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Red Plaid Flannel"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Red Plaid Flannel Farmhand outfit"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001743:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000B21:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000FE8:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_RusticParka_Pink",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Pink"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Pink Winter Jacket"
+  },
+  "AttachPoint": "0016E7:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174C:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000FDD:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

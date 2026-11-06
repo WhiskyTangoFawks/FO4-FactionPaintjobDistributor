@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000837:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Woodland",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Woodland Camo"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Woodland Camo"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 80,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000815:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

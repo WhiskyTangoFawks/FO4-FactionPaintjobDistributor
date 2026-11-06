@@ -1,0 +1,17 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000809:GunmetalWeaponSkins.esp",
+  "EditorID": "GUNMETAL_mod_PipeGun_Material_Rusty",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Standard"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Old and Rusty (Vanilla textures)"
+  },
+  "AttachPoint": "24A0D8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000822:GunmetalWeaponSkins.esp"
+  ]
+}

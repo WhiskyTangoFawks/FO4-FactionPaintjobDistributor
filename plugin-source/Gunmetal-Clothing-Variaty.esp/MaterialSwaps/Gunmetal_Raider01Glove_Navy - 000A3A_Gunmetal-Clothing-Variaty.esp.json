@@ -1,0 +1,10 @@
+{
+  "FormKey": "000A3A:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Raider01Glove_Navy",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\Raider01\\Raider01Gloves.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\Raider01\\Raider01Gloves_Navy.BGSM"
+    }
+  ]
+}

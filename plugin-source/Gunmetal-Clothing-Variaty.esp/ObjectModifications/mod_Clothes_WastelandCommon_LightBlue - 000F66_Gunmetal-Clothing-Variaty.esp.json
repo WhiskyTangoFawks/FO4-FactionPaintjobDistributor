@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000F66:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_WastelandCommon_LightBlue",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Light Blue Shirt and Combat Boots"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "00174E:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000F58:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

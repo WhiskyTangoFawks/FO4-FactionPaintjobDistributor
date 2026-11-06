@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00082E:RaiderArmorPaintsRedux.esp",
+  "EditorID": "Armor_Material_Raider_Yellow",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Yellow"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Yellow"
+  },
+  "AttachPoint": "24A0FA:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "00081E:RaiderArmorPaintsRedux.esp"
+  ],
+  "Priority": 90,
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000816:RaiderArmorPaintsRedux.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

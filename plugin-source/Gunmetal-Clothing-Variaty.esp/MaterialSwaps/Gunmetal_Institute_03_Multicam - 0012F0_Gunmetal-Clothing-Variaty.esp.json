@@ -1,0 +1,10 @@
+{
+  "FormKey": "0012F0:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_Institute_03_Multicam",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Clothes\\SynthUniform\\SynthUniform.BGSM",
+      "ReplacementMaterial": "HARVEST\\Clothes\\SynthUniform\\SynthUniform_Multicam.BGSM"
+    }
+  ]
+}

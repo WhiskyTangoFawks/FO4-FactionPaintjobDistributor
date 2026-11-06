@@ -1,0 +1,18 @@
+{
+  "FormKey": "00149B:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "Gunmetal_RaiderHeadgear_LightBlue",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear1.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear1_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear2.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear2_LightBlue.BGSM"
+    },
+    {
+      "OriginalMaterial": "Armor\\RaiderModArmor\\Headgear3.BGSM",
+      "ReplacementMaterial": "HARVEST\\Armor\\RaiderModArmor\\Headgear3_LightBlue.BGSM"
+    }
+  ]
+}

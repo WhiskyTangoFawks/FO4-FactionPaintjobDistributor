@@ -1,0 +1,24 @@
+{
+  "FormKey": "000A83:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_MinutemanOutfit_Denim",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Denim Jacket with Flannel Shirt Minuteman Outfit"
+  },
+  "CreatedObject": "000A77:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

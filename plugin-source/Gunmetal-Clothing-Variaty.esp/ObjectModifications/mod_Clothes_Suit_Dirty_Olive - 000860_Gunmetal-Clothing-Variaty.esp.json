@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000860:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "mod_Clothes_Suit_Dirty_Olive",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Olive Drab Green Suit - Dirty"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Suit to Dirty Olive Green Texture Swap"
+  },
+  "AttachPoint": "0016E0:Gunmetal-Clothing-Variaty.esp",
+  "TargetOmodKeywords": [
+    "001761:Gunmetal-Clothing-Variaty.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000851:Gunmetal-Clothing-Variaty.esp",
+      "Value": 660,
+      "FunctionType": "Add"
+    }
+  ]
+}

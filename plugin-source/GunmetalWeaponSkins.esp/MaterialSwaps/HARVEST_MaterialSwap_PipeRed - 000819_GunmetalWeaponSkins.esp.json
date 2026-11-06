@@ -1,0 +1,90 @@
+{
+  "FormKey": "000819:GunmetalWeaponSkins.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "EditorID": "HARVEST_MaterialSwap_PipeRed",
+  "FormVersion": 112,
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\45\\45Receiver.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\45\\45ReceiverRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Barrels\\BullBarrelPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Barrels\\BullBarrelPortedRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\Bird'sHead\\Bird'sHeadGripRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\CurvedPistolGrip\\CurvedPistolGripRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PaddedStock\\HandmadePaddedStockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PipeStock\\PipeStock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PipeStock\\PipeStockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\PistolGrip\\PistolGrip.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\PistolGrip\\PistolGripRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Grips\\SpringStock\\Springstock.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Grips\\SpringStock\\SpringstockRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressor.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Muzzles\\OilFilterSilencer\\OilFilterSuppressorRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\45PipeRifleMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\45PipeRifleMagRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\FlutedBarrel.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\FlutedBarrelRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifle.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPorted.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleBarrelandPortedRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMag.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleDrumMagRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleIronSights.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleIronSightsRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaks.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\PipeRifle\\PipeRifleMuzzleBreaksRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSight.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeReflexSight\\ReflexSightRed.BGSM"
+    },
+    {
+      "OriginalMaterial": "Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScope.BGSM",
+      "ReplacementMaterial": "HARVEST\\Weapons\\Handmade\\Scopes\\HandmadeScope\\HandMadeScopeRed.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

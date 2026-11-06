@@ -1,0 +1,24 @@
+{
+  "FormKey": "000DC9:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_ChildrenOfAtom_Green",
+  "Components": [
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Green Children Of Atom Rags"
+  },
+  "CreatedObject": "000DBA:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

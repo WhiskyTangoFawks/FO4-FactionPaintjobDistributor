@@ -1,0 +1,15 @@
+{
+  "ModKey": "CCV-MarineCombatArmor.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2150
+    },
+    "Author": "",
+    "INCC": 0
+  }
+}

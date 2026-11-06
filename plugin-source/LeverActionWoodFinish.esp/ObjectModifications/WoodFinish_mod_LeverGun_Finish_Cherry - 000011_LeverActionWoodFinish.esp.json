@@ -1,0 +1,28 @@
+{
+  "MutagenObjectType": "WeaponModification",
+  "FormKey": "000011:LeverActionWoodFinish.esp",
+  "VersionControl": 11844,
+  "EditorID": "WoodFinish_mod_LeverGun_Finish_Cherry",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Cherry"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Flashy."
+  },
+  "AttachPoint": "000001:LeverActionWoodFinish.esp",
+  "TargetOmodKeywords": [
+    "049CCB:DLCCoast.esm"
+  ],
+  "LooseMod": "00000C:LeverActionWoodFinish.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Weapon+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000005:LeverActionWoodFinish.esp",
+      "Value": 461,
+      "FunctionType": "Add"
+    }
+  ]
+}

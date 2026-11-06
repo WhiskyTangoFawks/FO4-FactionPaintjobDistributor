@@ -1,0 +1,24 @@
+{
+  "FormKey": "0014ED:Gunmetal-Clothing-Variaty.esp",
+  "EditorID": "co_mod_Clothes_RaiderHeadgear03_Denim",
+  "Components": [
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Denim Sack Hood with straps"
+  },
+  "CreatedObject": "0014B2:Gunmetal-Clothing-Variaty.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}
